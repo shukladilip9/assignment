@@ -1,4 +1,4 @@
-# assignment
+
 This project is maven based and contains following test cases :
 ArithmeticCalculation class unit cases---Used TestNg for unit test cases.
 Searching Least Expensive Apartment in Dubai marina with defined criteria. Used Selenium 3/Java8/TestNg/Log4j
