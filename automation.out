@@ -1,0 +1,2587 @@
+2019-10-06 20:37:06 INFO  WaitHelper:22 - 180
+2019-10-06 20:37:06 INFO  WaitHelper:27 - 240
+2019-10-06 20:37:06 INFO  ClearTripFlowTest:17 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-06 21:59:14 INFO  WaitHelper:22 - 180
+2019-10-06 21:59:15 INFO  WaitHelper:27 - 240
+2019-10-06 21:59:15 INFO  ClearTripFlowTest:18 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-06 22:02:53 INFO  WaitHelper:22 - 180
+2019-10-06 22:02:53 INFO  WaitHelper:27 - 240
+2019-10-06 22:02:53 INFO  ClearTripFlowTest:18 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-06 22:05:06 INFO  WaitHelper:22 - 180
+2019-10-06 22:05:06 INFO  WaitHelper:27 - 240
+2019-10-06 22:05:06 INFO  ClearTripFlowTest:22 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-06 22:08:19 INFO  WaitHelper:22 - 180
+2019-10-06 22:08:19 INFO  WaitHelper:27 - 240
+2019-10-06 22:08:19 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-06 22:19:31 INFO  WaitHelper:22 - 180
+2019-10-06 22:19:31 INFO  WaitHelper:27 - 240
+2019-10-06 22:19:31 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-06 22:29:29 INFO  WaitHelper:22 - 180
+2019-10-06 22:29:29 INFO  WaitHelper:27 - 240
+2019-10-06 22:29:29 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-06 22:29:29 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-06 22:29:29 INFO  ClearTripFlowTest:30 - page is being opened https://www.cleartrip.com
+2019-10-06 22:29:34 INFO  ClearTripFlowTest:33 - page is being maximized
+2019-10-06 22:29:35 INFO  ClearTripFlowTest:39 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-06 22:29:36 INFO  ClearTripFlowTest:42 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-06 22:29:36 INFO  ClearTripFlowTest:45 - Clicking on datePicker element 
+2019-10-06 22:29:36 INFO  ClearTripFlowTest:48 - Departure date is being calculated and entered
+2019-10-06 22:29:36 INFO  ClearTripFlowTest:51 - Selecting Adult as 1
+2019-10-06 22:29:37 INFO  ClearTripFlowTest:54 - Selecting Child as 1
+2019-10-06 22:29:37 INFO  ClearTripFlowTest:57 - Clicking on search button
+2019-10-06 22:29:37 INFO  ClearTripFlowTest:60 - Page is getting opened with all flight details
+2019-10-06 22:29:47 INFO  ClearTripFlowTest:63 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-06 22:29:47 INFO  ClearTripFlowTest:79 - Cheapest flight price 
+2019-10-06 22:29:47 INFO  ClearTripFlowTest:83 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.11,278 
+            
+2019-10-06 22:29:47 INFO  ClearTripFlowTest:85 - Preparing locator for clicking the Book button for this flight
+2019-10-06 22:29:47 INFO  ClearTripFlowTest:91 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.11,278 
+            ')]/../parent::*//button[@type='submit']
+2019-10-06 22:47:39 INFO  WaitHelper:26 - 180
+2019-10-06 22:47:39 INFO  WaitHelper:31 - 240
+2019-10-06 22:47:39 INFO  ClearTripFlowTest:25 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-06 22:47:39 INFO  ClearTripFlowTest:27 - Mandatory Configutaion is loaded
+2019-10-06 22:47:39 INFO  ClearTripFlowTest:29 - page is being opened https://www.cleartrip.com
+2019-10-06 22:47:44 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-06 22:47:44 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-06 22:47:44 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-06 22:47:45 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-06 22:47:45 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered
+2019-10-06 22:47:45 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-06 22:47:45 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-06 22:47:45 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-06 22:47:46 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-06 22:47:46 INFO  ClearTripFlowTest:63 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-06 22:47:53 INFO  ClearTripFlowTest:79 - Cheapest flight price 
+2019-10-06 22:47:53 INFO  ClearTripFlowTest:83 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.11,278 
+            
+2019-10-06 22:47:53 INFO  ClearTripFlowTest:85 - Preparing locator for clicking the Book button for this flight
+2019-10-06 22:47:53 INFO  ClearTripFlowTest:91 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.11,278 
+            ')]/../parent::*//button[@type='submit']
+2019-10-06 23:02:22 INFO  WaitHelper:26 - 180
+2019-10-06 23:02:22 INFO  WaitHelper:31 - 240
+2019-10-06 23:02:23 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-06 23:02:23 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-06 23:02:23 INFO  ClearTripFlowTest:30 - Waiting for the opening page untile document.ready=complete state
+2019-10-06 23:02:27 INFO  ClearTripFlowTest:35 - page is being maximized
+2019-10-06 23:02:27 INFO  ClearTripFlowTest:41 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-06 23:02:28 INFO  ClearTripFlowTest:44 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-06 23:02:29 INFO  ClearTripFlowTest:47 - Clicking on datePicker element 
+2019-10-06 23:02:29 INFO  ClearTripFlowTest:50 - Departure date is being calculated and entered
+2019-10-06 23:02:29 INFO  ClearTripFlowTest:53 - Selecting Adult as 1
+2019-10-06 23:02:29 INFO  ClearTripFlowTest:56 - Selecting Child as 1
+2019-10-06 23:02:29 INFO  ClearTripFlowTest:59 - Clicking on search button
+2019-10-06 23:02:29 INFO  ClearTripFlowTest:62 - Page is getting opened with all flight details
+2019-10-06 23:02:29 INFO  ClearTripFlowTest:64 - Waiting for the opening page untile document.ready=complete state
+2019-10-06 23:02:30 INFO  ClearTripFlowTest:67 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-06 23:02:36 INFO  ClearTripFlowTest:74 - Cheapest flight price 
+2019-10-06 23:02:36 INFO  ClearTripFlowTest:78 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.11,278 
+            
+2019-10-06 23:02:36 INFO  ClearTripFlowTest:80 - Preparing locator for clicking the Book button for this flight
+2019-10-06 23:02:36 INFO  ClearTripFlowTest:86 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.11,278 
+            ')]/../parent::*//button[@type='submit']
+2019-10-06 23:05:38 INFO  WaitHelper:26 - 180
+2019-10-06 23:05:39 INFO  WaitHelper:31 - 240
+2019-10-06 23:05:39 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-06 23:05:39 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-06 23:05:39 INFO  ClearTripFlowTest:30 - Waiting for the opening page untile document.ready=complete state
+2019-10-06 23:05:43 INFO  ClearTripFlowTest:35 - page is being maximized
+2019-10-06 23:05:44 INFO  ClearTripFlowTest:41 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-06 23:05:44 INFO  ClearTripFlowTest:44 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-06 23:05:45 INFO  ClearTripFlowTest:47 - Clicking on datePicker element 
+2019-10-06 23:05:45 INFO  ClearTripFlowTest:50 - Departure date is being calculated and entered--Date is 
+2019-10-06 23:05:45 INFO  HomePage:68 - Sun Oct 20 23:05:45 IST 2019
+2019-10-06 23:05:45 INFO  ClearTripFlowTest:53 - Selecting Adult as 1
+2019-10-06 23:05:45 INFO  ClearTripFlowTest:56 - Selecting Child as 1
+2019-10-06 23:05:45 INFO  ClearTripFlowTest:59 - Clicking on search button
+2019-10-06 23:05:45 INFO  ClearTripFlowTest:62 - Page is getting opened with all flight details
+2019-10-06 23:05:45 INFO  ClearTripFlowTest:64 - Waiting for the opening page untile document.ready=complete state
+2019-10-06 23:05:46 INFO  ClearTripFlowTest:67 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-06 23:05:53 INFO  ClearTripFlowTest:74 - Cheapest flight price 
+2019-10-06 23:05:53 INFO  ClearTripFlowTest:78 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.11,278 
+            
+2019-10-06 23:05:53 INFO  ClearTripFlowTest:80 - Preparing locator for clicking the Book button for this flight
+2019-10-06 23:05:53 INFO  ClearTripFlowTest:86 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.11,278 
+            ')]/../parent::*//button[@type='submit']
+2019-10-06 23:14:29 INFO  WaitHelper:26 - 180
+2019-10-06 23:14:29 INFO  WaitHelper:31 - 240
+2019-10-06 23:16:03 INFO  WaitHelper:26 - 180
+2019-10-06 23:16:04 INFO  WaitHelper:31 - 240
+2019-10-06 23:18:13 INFO  WaitHelper:26 - 180
+2019-10-06 23:18:14 INFO  WaitHelper:31 - 240
+2019-10-06 23:18:14 INFO  ClearTripFlowTest:25 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-06 23:18:14 INFO  ClearTripFlowTest:27 - Mandatory Configutaion is loaded
+2019-10-06 23:18:14 INFO  ClearTripFlowTest:29 - Waiting for the opening page untile document.ready=complete state
+2019-10-06 23:18:18 INFO  ClearTripFlowTest:34 - page is being maximized
+2019-10-06 23:18:18 INFO  ClearTripFlowTest:40 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-06 23:18:19 INFO  ClearTripFlowTest:43 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-06 23:18:20 INFO  ClearTripFlowTest:46 - Clicking on datePicker element 
+2019-10-06 23:18:20 INFO  ClearTripFlowTest:49 - Departure date is being calculated and entered--Date is 
+2019-10-06 23:18:20 INFO  HomePage:68 - --------------------Sun Oct 20 23:18:20 IST 2019--------------------
+2019-10-06 23:18:20 INFO  ClearTripFlowTest:52 - Selecting Adult as 1
+2019-10-06 23:18:20 INFO  ClearTripFlowTest:55 - Selecting Child as 1
+2019-10-06 23:18:20 INFO  ClearTripFlowTest:58 - Clicking on search button
+2019-10-06 23:18:20 INFO  ClearTripFlowTest:61 - Page is getting opened with all flight details
+2019-10-06 23:18:20 INFO  ClearTripFlowTest:63 - Waiting for the opening page untile document.ready=complete state
+2019-10-06 23:18:20 INFO  ClearTripFlowTest:66 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-06 23:18:27 INFO  ClearTripFlowTest:73 - Cheapest flight price 
+2019-10-06 23:18:27 INFO  ClearTripFlowTest:77 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.11,278 
+            
+2019-10-06 23:18:27 INFO  ClearTripFlowTest:79 - Preparing locator for clicking the Book button for this flight
+2019-10-06 23:18:28 INFO  ClearTripFlowTest:83 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:13:22 INFO  WaitHelper:26 - 180
+2019-10-07 00:13:22 INFO  WaitHelper:31 - 240
+2019-10-07 00:13:22 INFO  ClearTripFlowTest:25 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 00:13:22 INFO  ClearTripFlowTest:27 - Mandatory Configutaion is loaded
+2019-10-07 00:13:22 INFO  ClearTripFlowTest:29 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:13:27 INFO  ClearTripFlowTest:34 - page is being maximized
+2019-10-07 00:13:28 INFO  ClearTripFlowTest:40 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 00:13:30 INFO  ClearTripFlowTest:43 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 00:13:31 INFO  ClearTripFlowTest:46 - Clicking on datePicker element 
+2019-10-07 00:13:31 INFO  ClearTripFlowTest:49 - Departure date is being calculated and entered--Date is 
+2019-10-07 00:13:31 INFO  HomePage:68 - --------------------Mon Oct 21 00:13:31 IST 2019--------------------
+2019-10-07 00:13:31 INFO  ClearTripFlowTest:52 - Selecting Adult as 1
+2019-10-07 00:13:31 INFO  ClearTripFlowTest:55 - Selecting Child as 1
+2019-10-07 00:13:31 INFO  ClearTripFlowTest:58 - Clicking on search button
+2019-10-07 00:13:31 INFO  ClearTripFlowTest:61 - Page is getting opened with all flight details
+2019-10-07 00:13:31 INFO  ClearTripFlowTest:63 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:13:32 INFO  ClearTripFlowTest:66 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 00:13:45 INFO  ClearTripFlowTest:73 - Cheapest flight price 
+2019-10-07 00:13:45 INFO  ClearTripFlowTest:77 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 00:13:45 INFO  ClearTripFlowTest:79 - Preparing locator for clicking the Book button for this flight
+2019-10-07 00:15:06 INFO  WaitHelper:26 - 180
+2019-10-07 00:15:06 INFO  WaitHelper:31 - 240
+2019-10-07 00:15:06 INFO  ClearTripFlowTest:25 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 00:15:06 INFO  ClearTripFlowTest:27 - Mandatory Configutaion is loaded
+2019-10-07 00:15:06 INFO  ClearTripFlowTest:29 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:15:10 INFO  ClearTripFlowTest:34 - page is being maximized
+2019-10-07 00:15:10 INFO  ClearTripFlowTest:40 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 00:15:11 INFO  ClearTripFlowTest:43 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 00:15:12 INFO  ClearTripFlowTest:46 - Clicking on datePicker element 
+2019-10-07 00:15:12 INFO  ClearTripFlowTest:49 - Departure date is being calculated and entered--Date is 
+2019-10-07 00:15:12 INFO  HomePage:68 - --------------------Mon Oct 21 00:15:12 IST 2019--------------------
+2019-10-07 00:15:12 INFO  ClearTripFlowTest:52 - Selecting Adult as 1
+2019-10-07 00:15:12 INFO  ClearTripFlowTest:55 - Selecting Child as 1
+2019-10-07 00:15:12 INFO  ClearTripFlowTest:58 - Clicking on search button
+2019-10-07 00:15:12 INFO  ClearTripFlowTest:61 - Page is getting opened with all flight details
+2019-10-07 00:15:12 INFO  ClearTripFlowTest:63 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:15:12 INFO  ClearTripFlowTest:66 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 00:15:20 INFO  ClearTripFlowTest:73 - Cheapest flight price 
+2019-10-07 00:15:20 INFO  ClearTripFlowTest:77 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 00:15:20 INFO  ClearTripFlowTest:79 - Preparing locator for clicking the Book button for this flight
+2019-10-07 00:15:20 INFO  ClearTripFlowTest:83 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:15:20 INFO  ClearTripFlowTest:86 - Insurance is being accepted
+2019-10-07 00:17:09 INFO  WaitHelper:26 - 180
+2019-10-07 00:17:09 INFO  WaitHelper:31 - 240
+2019-10-07 00:17:09 INFO  ClearTripFlowTest:25 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 00:17:09 INFO  ClearTripFlowTest:27 - Mandatory Configutaion is loaded
+2019-10-07 00:17:09 INFO  ClearTripFlowTest:29 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:17:13 INFO  ClearTripFlowTest:34 - page is being maximized
+2019-10-07 00:17:14 INFO  ClearTripFlowTest:40 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 00:17:15 INFO  ClearTripFlowTest:43 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 00:17:15 INFO  ClearTripFlowTest:46 - Clicking on datePicker element 
+2019-10-07 00:17:15 INFO  ClearTripFlowTest:49 - Departure date is being calculated and entered--Date is 
+2019-10-07 00:17:15 INFO  HomePage:68 - --------------------Mon Oct 21 00:17:15 IST 2019--------------------
+2019-10-07 00:17:16 INFO  ClearTripFlowTest:52 - Selecting Adult as 1
+2019-10-07 00:17:16 INFO  ClearTripFlowTest:55 - Selecting Child as 1
+2019-10-07 00:17:16 INFO  ClearTripFlowTest:58 - Clicking on search button
+2019-10-07 00:17:16 INFO  ClearTripFlowTest:61 - Page is getting opened with all flight details
+2019-10-07 00:17:16 INFO  ClearTripFlowTest:63 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:17:16 INFO  ClearTripFlowTest:66 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 00:17:23 INFO  ClearTripFlowTest:73 - Cheapest flight price 
+2019-10-07 00:17:23 INFO  ClearTripFlowTest:77 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 00:17:23 INFO  ClearTripFlowTest:79 - Preparing locator for clicking the Book button for this flight
+2019-10-07 00:17:23 INFO  ClearTripFlowTest:83 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:17:23 INFO  ClearTripFlowTest:86 - Insurance is being accepted
+2019-10-07 00:24:40 INFO  WaitHelper:22 - 180
+2019-10-07 00:24:41 INFO  WaitHelper:27 - 240
+2019-10-07 00:24:41 INFO  ClearTripFlowTest:25 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 00:24:41 INFO  ClearTripFlowTest:27 - Mandatory Configutaion is loaded
+2019-10-07 00:24:41 INFO  ClearTripFlowTest:29 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:24:45 INFO  ClearTripFlowTest:34 - page is being maximized
+2019-10-07 00:24:45 INFO  ClearTripFlowTest:40 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 00:24:46 INFO  ClearTripFlowTest:43 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 00:24:47 INFO  ClearTripFlowTest:46 - Clicking on datePicker element 
+2019-10-07 00:24:47 INFO  ClearTripFlowTest:49 - Departure date is being calculated and entered--Date is 
+2019-10-07 00:24:47 INFO  HomePage:68 - --------------------Mon Oct 21 00:24:47 IST 2019--------------------
+2019-10-07 00:24:47 INFO  ClearTripFlowTest:52 - Selecting Adult as 1
+2019-10-07 00:24:47 INFO  ClearTripFlowTest:55 - Selecting Child as 1
+2019-10-07 00:24:47 INFO  ClearTripFlowTest:58 - Clicking on search button
+2019-10-07 00:24:47 INFO  ClearTripFlowTest:61 - Page is getting opened with all flight details
+2019-10-07 00:24:47 INFO  ClearTripFlowTest:63 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:24:48 INFO  ClearTripFlowTest:66 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 00:24:56 INFO  ClearTripFlowTest:73 - Cheapest flight price 
+2019-10-07 00:24:56 INFO  ClearTripFlowTest:77 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 00:24:56 INFO  ClearTripFlowTest:79 - Preparing locator for clicking the Book button for this flight
+2019-10-07 00:24:56 INFO  ClearTripFlowTest:83 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:26:47 INFO  WaitHelper:22 - 180
+2019-10-07 00:26:47 INFO  WaitHelper:27 - 240
+2019-10-07 00:26:47 INFO  ClearTripFlowTest:25 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 00:26:47 INFO  ClearTripFlowTest:27 - Mandatory Configutaion is loaded
+2019-10-07 00:26:47 INFO  ClearTripFlowTest:29 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:26:54 INFO  ClearTripFlowTest:34 - page is being maximized
+2019-10-07 00:26:54 INFO  ClearTripFlowTest:40 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 00:26:55 INFO  ClearTripFlowTest:43 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 00:26:55 INFO  ClearTripFlowTest:46 - Clicking on datePicker element 
+2019-10-07 00:26:55 INFO  ClearTripFlowTest:49 - Departure date is being calculated and entered--Date is 
+2019-10-07 00:26:55 INFO  HomePage:68 - --------------------Mon Oct 21 00:26:55 IST 2019--------------------
+2019-10-07 00:26:55 INFO  ClearTripFlowTest:52 - Selecting Adult as 1
+2019-10-07 00:26:55 INFO  ClearTripFlowTest:55 - Selecting Child as 1
+2019-10-07 00:26:56 INFO  ClearTripFlowTest:58 - Clicking on search button
+2019-10-07 00:26:56 INFO  ClearTripFlowTest:61 - Page is getting opened with all flight details
+2019-10-07 00:26:56 INFO  ClearTripFlowTest:63 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:26:56 INFO  ClearTripFlowTest:66 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 00:27:02 INFO  ClearTripFlowTest:73 - Cheapest flight price 
+2019-10-07 00:27:02 INFO  ClearTripFlowTest:77 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 00:27:02 INFO  ClearTripFlowTest:79 - Preparing locator for clicking the Book button for this flight
+2019-10-07 00:30:15 INFO  WaitHelper:22 - 180
+2019-10-07 00:30:15 INFO  WaitHelper:27 - 240
+2019-10-07 00:30:15 INFO  ClearTripFlowTest:25 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 00:30:15 INFO  ClearTripFlowTest:27 - Mandatory Configutaion is loaded
+2019-10-07 00:30:15 INFO  ClearTripFlowTest:29 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:30:21 INFO  ClearTripFlowTest:34 - page is being maximized
+2019-10-07 00:30:21 INFO  ClearTripFlowTest:40 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 00:30:22 INFO  ClearTripFlowTest:43 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 00:30:22 INFO  ClearTripFlowTest:46 - Clicking on datePicker element 
+2019-10-07 00:30:22 INFO  ClearTripFlowTest:49 - Departure date is being calculated and entered--Date is 
+2019-10-07 00:30:22 INFO  HomePage:68 - --------------------Mon Oct 21 00:30:22 IST 2019--------------------
+2019-10-07 00:30:22 INFO  ClearTripFlowTest:52 - Selecting Adult as 1
+2019-10-07 00:30:22 INFO  ClearTripFlowTest:55 - Selecting Child as 1
+2019-10-07 00:30:23 INFO  ClearTripFlowTest:58 - Clicking on search button
+2019-10-07 00:30:23 INFO  ClearTripFlowTest:61 - Page is getting opened with all flight details
+2019-10-07 00:30:23 INFO  ClearTripFlowTest:63 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:30:23 INFO  ClearTripFlowTest:66 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 00:30:30 INFO  ClearTripFlowTest:73 - Cheapest flight price 
+2019-10-07 00:30:30 INFO  ClearTripFlowTest:77 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 00:30:30 INFO  ClearTripFlowTest:79 - Preparing locator for clicking the Book button for this flight
+2019-10-07 00:30:30 INFO  ClearTripFlowTest:88 - Clicking continue button
+2019-10-07 00:32:06 INFO  WaitHelper:22 - 180
+2019-10-07 00:32:06 INFO  WaitHelper:27 - 240
+2019-10-07 00:32:06 INFO  ClearTripFlowTest:25 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 00:32:06 INFO  ClearTripFlowTest:27 - Mandatory Configutaion is loaded
+2019-10-07 00:32:06 INFO  ClearTripFlowTest:29 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:32:12 INFO  ClearTripFlowTest:34 - page is being maximized
+2019-10-07 00:32:12 INFO  ClearTripFlowTest:40 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 00:32:13 INFO  ClearTripFlowTest:43 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 00:32:13 INFO  ClearTripFlowTest:46 - Clicking on datePicker element 
+2019-10-07 00:32:13 INFO  ClearTripFlowTest:49 - Departure date is being calculated and entered--Date is 
+2019-10-07 00:32:13 INFO  HomePage:68 - --------------------Mon Oct 21 00:32:13 IST 2019--------------------
+2019-10-07 00:32:14 INFO  ClearTripFlowTest:52 - Selecting Adult as 1
+2019-10-07 00:32:14 INFO  ClearTripFlowTest:55 - Selecting Child as 1
+2019-10-07 00:32:14 INFO  ClearTripFlowTest:58 - Clicking on search button
+2019-10-07 00:32:14 INFO  ClearTripFlowTest:61 - Page is getting opened with all flight details
+2019-10-07 00:32:14 INFO  ClearTripFlowTest:63 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:32:14 INFO  ClearTripFlowTest:66 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 00:32:22 INFO  ClearTripFlowTest:73 - Cheapest flight price 
+2019-10-07 00:32:22 INFO  ClearTripFlowTest:77 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 00:32:22 INFO  ClearTripFlowTest:79 - Preparing locator for clicking the Book button for this flight
+2019-10-07 00:32:52 INFO  ClearTripFlowTest:88 - Clicking continue button
+2019-10-07 00:36:57 INFO  WaitHelper:22 - 180
+2019-10-07 00:36:57 INFO  WaitHelper:27 - 240
+2019-10-07 00:36:57 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 00:36:57 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-07 00:36:57 INFO  ClearTripFlowTest:30 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:37:02 INFO  ClearTripFlowTest:35 - page is being maximized
+2019-10-07 00:37:02 INFO  ClearTripFlowTest:41 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 00:37:03 INFO  ClearTripFlowTest:44 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 00:37:03 INFO  ClearTripFlowTest:47 - Clicking on datePicker element 
+2019-10-07 00:37:03 INFO  ClearTripFlowTest:50 - Departure date is being calculated and entered--Date is 
+2019-10-07 00:37:03 INFO  HomePage:68 - --------------------Mon Oct 21 00:37:03 IST 2019--------------------
+2019-10-07 00:37:03 INFO  ClearTripFlowTest:53 - Selecting Adult as 1
+2019-10-07 00:37:03 INFO  ClearTripFlowTest:56 - Selecting Child as 1
+2019-10-07 00:37:03 INFO  ClearTripFlowTest:59 - Clicking on search button
+2019-10-07 00:37:04 INFO  ClearTripFlowTest:62 - Page is getting opened with all flight details
+2019-10-07 00:37:04 INFO  ClearTripFlowTest:64 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:37:04 INFO  ClearTripFlowTest:67 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 00:37:10 INFO  ClearTripFlowTest:74 - Cheapest flight price 
+2019-10-07 00:37:10 INFO  ClearTripFlowTest:78 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 00:37:10 INFO  ClearTripFlowTest:80 - Preparing locator for clicking the Book button for this flight
+2019-10-07 00:37:10 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 00:42:55 INFO  WaitHelper:22 - 180
+2019-10-07 00:42:55 INFO  WaitHelper:27 - 240
+2019-10-07 00:42:55 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 00:42:55 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-07 00:42:55 INFO  ClearTripFlowTest:30 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:43:00 INFO  ClearTripFlowTest:35 - page is being maximized
+2019-10-07 00:43:00 INFO  ClearTripFlowTest:41 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 00:43:01 INFO  ClearTripFlowTest:44 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 00:43:01 INFO  ClearTripFlowTest:47 - Clicking on datePicker element 
+2019-10-07 00:43:01 INFO  ClearTripFlowTest:50 - Departure date is being calculated and entered--Date is 
+2019-10-07 00:43:01 INFO  HomePage:68 - --------------------Mon Oct 21 00:43:01 IST 2019--------------------
+2019-10-07 00:43:01 INFO  ClearTripFlowTest:53 - Selecting Adult as 1
+2019-10-07 00:43:01 INFO  ClearTripFlowTest:56 - Selecting Child as 1
+2019-10-07 00:43:01 INFO  ClearTripFlowTest:59 - Clicking on search button
+2019-10-07 00:43:01 INFO  ClearTripFlowTest:62 - Page is getting opened with all flight details
+2019-10-07 00:43:01 INFO  ClearTripFlowTest:64 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:43:02 INFO  ClearTripFlowTest:67 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 00:43:09 INFO  ClearTripFlowTest:74 - Cheapest flight price 
+2019-10-07 00:43:09 INFO  ClearTripFlowTest:78 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 00:43:09 INFO  ClearTripFlowTest:80 - Preparing locator for clicking the Book button for this flight
+2019-10-07 00:44:44 INFO  WaitHelper:22 - 180
+2019-10-07 00:44:44 INFO  WaitHelper:27 - 240
+2019-10-07 00:44:44 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 00:44:44 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-07 00:44:44 INFO  ClearTripFlowTest:30 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:44:49 INFO  ClearTripFlowTest:35 - page is being maximized
+2019-10-07 00:44:49 INFO  ClearTripFlowTest:41 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 00:44:50 INFO  ClearTripFlowTest:44 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 00:44:50 INFO  ClearTripFlowTest:47 - Clicking on datePicker element 
+2019-10-07 00:44:50 INFO  ClearTripFlowTest:50 - Departure date is being calculated and entered--Date is 
+2019-10-07 00:44:50 INFO  HomePage:68 - --------------------Mon Oct 21 00:44:50 IST 2019--------------------
+2019-10-07 00:44:50 INFO  ClearTripFlowTest:53 - Selecting Adult as 1
+2019-10-07 00:44:51 INFO  ClearTripFlowTest:56 - Selecting Child as 1
+2019-10-07 00:44:51 INFO  ClearTripFlowTest:59 - Clicking on search button
+2019-10-07 00:44:51 INFO  ClearTripFlowTest:62 - Page is getting opened with all flight details
+2019-10-07 00:44:51 INFO  ClearTripFlowTest:64 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:44:51 INFO  ClearTripFlowTest:67 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 00:44:57 INFO  ClearTripFlowTest:74 - Cheapest flight price 
+2019-10-07 00:44:57 INFO  ClearTripFlowTest:78 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 00:44:57 INFO  ClearTripFlowTest:80 - Preparing locator for clicking the Book button for this flight
+2019-10-07 00:47:59 INFO  WaitHelper:22 - 180
+2019-10-07 00:47:59 INFO  WaitHelper:27 - 240
+2019-10-07 00:47:59 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 00:47:59 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-07 00:47:59 INFO  ClearTripFlowTest:30 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:48:04 INFO  ClearTripFlowTest:35 - page is being maximized
+2019-10-07 00:48:04 INFO  ClearTripFlowTest:41 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 00:48:05 INFO  ClearTripFlowTest:44 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 00:48:06 INFO  ClearTripFlowTest:47 - Clicking on datePicker element 
+2019-10-07 00:48:06 INFO  ClearTripFlowTest:50 - Departure date is being calculated and entered--Date is 
+2019-10-07 00:48:06 INFO  HomePage:68 - --------------------Mon Oct 21 00:48:06 IST 2019--------------------
+2019-10-07 00:48:06 INFO  ClearTripFlowTest:53 - Selecting Adult as 1
+2019-10-07 00:48:06 INFO  ClearTripFlowTest:56 - Selecting Child as 1
+2019-10-07 00:48:06 INFO  ClearTripFlowTest:59 - Clicking on search button
+2019-10-07 00:48:06 INFO  ClearTripFlowTest:62 - Page is getting opened with all flight details
+2019-10-07 00:48:06 INFO  ClearTripFlowTest:64 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:48:06 INFO  ClearTripFlowTest:67 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 00:48:12 INFO  ClearTripFlowTest:74 - Cheapest flight price 
+2019-10-07 00:48:12 INFO  ClearTripFlowTest:78 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 00:48:12 INFO  ClearTripFlowTest:80 - Preparing locator for clicking the Book button for this flight
+2019-10-07 00:48:22 INFO  ClearTripFlowTest:91 - Clicking continue button
+2019-10-07 00:54:57 INFO  WaitHelper:22 - 180
+2019-10-07 00:54:57 INFO  WaitHelper:27 - 240
+2019-10-07 00:54:58 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 00:54:58 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-07 00:54:58 INFO  ClearTripFlowTest:30 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:55:02 INFO  ClearTripFlowTest:35 - page is being maximized
+2019-10-07 00:55:02 INFO  ClearTripFlowTest:41 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 00:55:03 INFO  ClearTripFlowTest:44 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 00:55:03 INFO  ClearTripFlowTest:47 - Clicking on datePicker element 
+2019-10-07 00:55:03 INFO  ClearTripFlowTest:50 - Departure date is being calculated and entered--Date is 
+2019-10-07 00:55:03 INFO  HomePage:68 - --------------------Mon Oct 21 00:55:03 IST 2019--------------------
+2019-10-07 00:55:03 INFO  ClearTripFlowTest:53 - Selecting Adult as 1
+2019-10-07 00:55:04 INFO  ClearTripFlowTest:56 - Selecting Child as 1
+2019-10-07 00:55:04 INFO  ClearTripFlowTest:59 - Clicking on search button
+2019-10-07 00:55:04 INFO  ClearTripFlowTest:62 - Page is getting opened with all flight details
+2019-10-07 00:55:04 INFO  ClearTripFlowTest:64 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:55:04 INFO  ClearTripFlowTest:67 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 00:55:11 INFO  ClearTripFlowTest:74 - Cheapest flight price 
+2019-10-07 00:55:11 INFO  ClearTripFlowTest:78 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 00:55:11 INFO  ClearTripFlowTest:80 - Preparing locator for clicking the Book button for this flight
+2019-10-07 00:55:23 INFO  ClearTripFlowTest:91 - Clicking continue button
+2019-10-07 00:55:23 INFO  ClearTripFlowTest:101 - Insurance is being accepted
+2019-10-07 00:55:23 INFO  ClearTripFlowTest:105 - Clicking continue button
+2019-10-07 00:55:23 INFO  ClearTripFlowTest:109 - Entering email
+2019-10-07 00:56:59 INFO  WaitHelper:22 - 180
+2019-10-07 00:56:59 INFO  WaitHelper:27 - 240
+2019-10-07 00:56:59 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 00:56:59 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-07 00:56:59 INFO  ClearTripFlowTest:30 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:57:04 INFO  ClearTripFlowTest:35 - page is being maximized
+2019-10-07 00:57:04 INFO  ClearTripFlowTest:41 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 00:57:05 INFO  ClearTripFlowTest:44 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 00:57:05 INFO  ClearTripFlowTest:47 - Clicking on datePicker element 
+2019-10-07 00:57:05 INFO  ClearTripFlowTest:50 - Departure date is being calculated and entered--Date is 
+2019-10-07 00:57:05 INFO  HomePage:68 - --------------------Mon Oct 21 00:57:05 IST 2019--------------------
+2019-10-07 00:57:06 INFO  ClearTripFlowTest:53 - Selecting Adult as 1
+2019-10-07 00:57:06 INFO  ClearTripFlowTest:56 - Selecting Child as 1
+2019-10-07 00:57:06 INFO  ClearTripFlowTest:59 - Clicking on search button
+2019-10-07 00:57:06 INFO  ClearTripFlowTest:62 - Page is getting opened with all flight details
+2019-10-07 00:57:06 INFO  ClearTripFlowTest:64 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:57:06 INFO  ClearTripFlowTest:67 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 00:57:14 INFO  ClearTripFlowTest:74 - Cheapest flight price 
+2019-10-07 00:57:14 INFO  ClearTripFlowTest:78 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 00:57:14 INFO  ClearTripFlowTest:80 - Preparing locator for clicking the Book button for this flight
+2019-10-07 00:57:14 INFO  ClearTripFlowTest:86 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:57:15 INFO  ClearTripFlowTest:96 - Insurance is being accepted
+2019-10-07 00:58:25 INFO  WaitHelper:22 - 180
+2019-10-07 00:58:26 INFO  WaitHelper:27 - 240
+2019-10-07 00:58:26 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 00:58:26 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-07 00:58:26 INFO  ClearTripFlowTest:30 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:58:31 INFO  ClearTripFlowTest:35 - page is being maximized
+2019-10-07 00:58:31 INFO  ClearTripFlowTest:41 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 00:58:31 INFO  ClearTripFlowTest:44 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 00:58:32 INFO  ClearTripFlowTest:47 - Clicking on datePicker element 
+2019-10-07 00:58:32 INFO  ClearTripFlowTest:50 - Departure date is being calculated and entered--Date is 
+2019-10-07 00:58:32 INFO  HomePage:68 - --------------------Mon Oct 21 00:58:32 IST 2019--------------------
+2019-10-07 00:58:32 INFO  ClearTripFlowTest:53 - Selecting Adult as 1
+2019-10-07 00:58:32 INFO  ClearTripFlowTest:56 - Selecting Child as 1
+2019-10-07 00:58:32 INFO  ClearTripFlowTest:59 - Clicking on search button
+2019-10-07 00:58:32 INFO  ClearTripFlowTest:62 - Page is getting opened with all flight details
+2019-10-07 00:58:32 INFO  ClearTripFlowTest:64 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:58:33 INFO  ClearTripFlowTest:67 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 00:58:40 INFO  ClearTripFlowTest:74 - Cheapest flight price 
+2019-10-07 00:58:40 INFO  ClearTripFlowTest:78 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 00:58:40 INFO  ClearTripFlowTest:80 - Preparing locator for clicking the Book button for this flight
+2019-10-07 00:58:40 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 00:59:29 INFO  WaitHelper:22 - 180
+2019-10-07 00:59:29 INFO  WaitHelper:27 - 240
+2019-10-07 00:59:29 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 00:59:29 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-07 00:59:29 INFO  ClearTripFlowTest:30 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:59:34 INFO  ClearTripFlowTest:35 - page is being maximized
+2019-10-07 00:59:34 INFO  ClearTripFlowTest:41 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 00:59:34 INFO  ClearTripFlowTest:44 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 00:59:35 INFO  ClearTripFlowTest:47 - Clicking on datePicker element 
+2019-10-07 00:59:35 INFO  ClearTripFlowTest:50 - Departure date is being calculated and entered--Date is 
+2019-10-07 00:59:35 INFO  HomePage:68 - --------------------Mon Oct 21 00:59:35 IST 2019--------------------
+2019-10-07 00:59:35 INFO  ClearTripFlowTest:53 - Selecting Adult as 1
+2019-10-07 00:59:35 INFO  ClearTripFlowTest:56 - Selecting Child as 1
+2019-10-07 00:59:35 INFO  ClearTripFlowTest:59 - Clicking on search button
+2019-10-07 00:59:35 INFO  ClearTripFlowTest:62 - Page is getting opened with all flight details
+2019-10-07 00:59:35 INFO  ClearTripFlowTest:64 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 00:59:36 INFO  ClearTripFlowTest:67 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 00:59:44 INFO  ClearTripFlowTest:74 - Cheapest flight price 
+2019-10-07 00:59:44 INFO  ClearTripFlowTest:78 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 00:59:44 INFO  ClearTripFlowTest:80 - Preparing locator for clicking the Book button for this flight
+2019-10-07 00:59:54 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 00:59:54 INFO  ClearTripFlowTest:99 - Insurance is being accepted
+2019-10-07 00:59:55 INFO  ClearTripFlowTest:103 - Clicking continue button
+2019-10-07 00:59:55 INFO  ClearTripFlowTest:107 - Entering email
+2019-10-07 01:02:21 INFO  WaitHelper:22 - 180
+2019-10-07 01:02:21 INFO  WaitHelper:27 - 240
+2019-10-07 01:02:21 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 01:02:21 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-07 01:02:21 INFO  ClearTripFlowTest:30 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 01:02:26 INFO  ClearTripFlowTest:35 - page is being maximized
+2019-10-07 01:02:26 INFO  ClearTripFlowTest:41 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 01:02:27 INFO  ClearTripFlowTest:44 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 01:02:27 INFO  ClearTripFlowTest:47 - Clicking on datePicker element 
+2019-10-07 01:02:27 INFO  ClearTripFlowTest:50 - Departure date is being calculated and entered--Date is 
+2019-10-07 01:02:27 INFO  HomePage:68 - --------------------Mon Oct 21 01:02:27 IST 2019--------------------
+2019-10-07 01:02:28 INFO  ClearTripFlowTest:53 - Selecting Adult as 1
+2019-10-07 01:02:28 INFO  ClearTripFlowTest:56 - Selecting Child as 1
+2019-10-07 01:02:28 INFO  ClearTripFlowTest:59 - Clicking on search button
+2019-10-07 01:02:28 INFO  ClearTripFlowTest:62 - Page is getting opened with all flight details
+2019-10-07 01:02:28 INFO  ClearTripFlowTest:64 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 01:02:28 INFO  ClearTripFlowTest:67 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 01:02:35 INFO  ClearTripFlowTest:74 - Cheapest flight price 
+2019-10-07 01:02:35 INFO  ClearTripFlowTest:78 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 01:02:35 INFO  ClearTripFlowTest:80 - Preparing locator for clicking the Book button for this flight
+2019-10-07 01:02:45 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 01:02:49 INFO  ClearTripFlowTest:99 - Insurance is being accepted
+2019-10-07 01:02:49 INFO  ClearTripFlowTest:103 - Clicking continue button
+2019-10-07 01:02:49 INFO  ClearTripFlowTest:107 - Entering email
+2019-10-07 01:14:31 INFO  WaitHelper:22 - 180
+2019-10-07 01:14:31 INFO  WaitHelper:27 - 240
+2019-10-07 01:14:31 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 01:14:31 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-07 01:14:35 INFO  ClearTripFlowTest:34 - page is being maximized
+2019-10-07 01:14:36 INFO  ClearTripFlowTest:40 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 01:14:36 INFO  ClearTripFlowTest:43 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 01:14:37 INFO  ClearTripFlowTest:46 - Clicking on datePicker element 
+2019-10-07 01:14:37 INFO  ClearTripFlowTest:49 - Departure date is being calculated and entered--Date is 
+2019-10-07 01:14:37 INFO  HomePage:68 - --------------------Mon Oct 21 01:14:37 IST 2019--------------------
+2019-10-07 01:14:37 INFO  ClearTripFlowTest:52 - Selecting Adult as 1
+2019-10-07 01:14:37 INFO  ClearTripFlowTest:55 - Selecting Child as 1
+2019-10-07 01:14:37 INFO  ClearTripFlowTest:58 - Clicking on search button
+2019-10-07 01:14:37 INFO  ClearTripFlowTest:61 - Page is getting opened with all flight details
+2019-10-07 01:14:37 INFO  ClearTripFlowTest:63 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 01:14:37 INFO  ClearTripFlowTest:66 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 01:14:44 INFO  ClearTripFlowTest:73 - Cheapest flight price 
+2019-10-07 01:14:44 INFO  ClearTripFlowTest:77 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 01:14:44 INFO  ClearTripFlowTest:79 - Preparing locator for clicking the Book button for this flight
+2019-10-07 01:14:54 INFO  ClearTripFlowTest:83 - Clicking continue button
+2019-10-07 01:14:54 INFO  ClearTripFlowTest:87 - Insurance is being accepted
+2019-10-07 01:14:54 INFO  ClearTripFlowTest:91 - Clicking continue button
+2019-10-07 01:14:54 INFO  ClearTripFlowTest:95 - Entering email
+2019-10-07 01:16:23 INFO  WaitHelper:22 - 180
+2019-10-07 01:16:24 INFO  WaitHelper:27 - 240
+2019-10-07 01:16:24 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 01:16:24 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-07 01:16:28 INFO  ClearTripFlowTest:34 - page is being maximized
+2019-10-07 01:16:28 INFO  ClearTripFlowTest:40 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 01:16:29 INFO  ClearTripFlowTest:43 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 01:16:30 INFO  ClearTripFlowTest:46 - Clicking on datePicker element 
+2019-10-07 01:16:30 INFO  ClearTripFlowTest:49 - Departure date is being calculated and entered--Date is 
+2019-10-07 01:16:30 INFO  HomePage:68 - --------------------Mon Oct 21 01:16:30 IST 2019--------------------
+2019-10-07 01:16:30 INFO  ClearTripFlowTest:52 - Selecting Adult as 1
+2019-10-07 01:16:30 INFO  ClearTripFlowTest:55 - Selecting Child as 1
+2019-10-07 01:16:30 INFO  ClearTripFlowTest:58 - Clicking on search button
+2019-10-07 01:16:30 INFO  ClearTripFlowTest:61 - Page is getting opened with all flight details
+2019-10-07 01:16:30 INFO  ClearTripFlowTest:63 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 01:16:30 INFO  ClearTripFlowTest:66 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 01:16:37 INFO  ClearTripFlowTest:73 - Cheapest flight price 
+2019-10-07 01:16:37 INFO  ClearTripFlowTest:77 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 01:16:37 INFO  ClearTripFlowTest:79 - Preparing locator for clicking the Book button for this flight
+2019-10-07 01:16:47 INFO  ClearTripFlowTest:83 - Clicking continue button
+2019-10-07 01:16:50 INFO  ClearTripFlowTest:87 - Insurance is being accepted
+2019-10-07 01:16:50 INFO  ClearTripFlowTest:91 - Clicking continue button
+2019-10-07 01:16:50 INFO  ClearTripFlowTest:95 - Entering email
+2019-10-07 01:18:59 INFO  WaitHelper:22 - 180
+2019-10-07 01:18:59 INFO  WaitHelper:27 - 240
+2019-10-07 01:18:59 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 01:18:59 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-07 01:19:04 INFO  ClearTripFlowTest:34 - page is being maximized
+2019-10-07 01:19:04 INFO  ClearTripFlowTest:40 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 01:19:05 INFO  ClearTripFlowTest:43 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 01:19:05 INFO  ClearTripFlowTest:46 - Clicking on datePicker element 
+2019-10-07 01:19:05 INFO  ClearTripFlowTest:49 - Departure date is being calculated and entered--Date is 
+2019-10-07 01:19:05 INFO  HomePage:68 - --------------------Mon Oct 21 01:19:05 IST 2019--------------------
+2019-10-07 01:19:05 INFO  ClearTripFlowTest:52 - Selecting Adult as 1
+2019-10-07 01:19:05 INFO  ClearTripFlowTest:55 - Selecting Child as 1
+2019-10-07 01:19:06 INFO  ClearTripFlowTest:58 - Clicking on search button
+2019-10-07 01:19:06 INFO  ClearTripFlowTest:61 - Page is getting opened with all flight details
+2019-10-07 01:19:06 INFO  ClearTripFlowTest:63 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 01:19:06 INFO  ClearTripFlowTest:66 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 01:19:14 INFO  ClearTripFlowTest:73 - Cheapest flight price 
+2019-10-07 01:19:14 INFO  ClearTripFlowTest:77 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 01:19:14 INFO  ClearTripFlowTest:79 - Preparing locator for clicking the Book button for this flight
+2019-10-07 01:19:24 INFO  ClearTripFlowTest:83 - Clicking continue button
+2019-10-07 01:19:26 INFO  ClearTripFlowTest:87 - Insurance is being accepted
+2019-10-07 01:19:26 INFO  ClearTripFlowTest:91 - Clicking continue button
+2019-10-07 01:19:27 INFO  ClearTripFlowTest:95 - Entering email
+2019-10-07 01:22:38 INFO  WaitHelper:22 - 180
+2019-10-07 01:22:39 INFO  WaitHelper:27 - 240
+2019-10-07 01:22:39 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 01:22:39 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-07 01:22:45 INFO  ClearTripFlowTest:34 - page is being maximized
+2019-10-07 01:22:45 INFO  ClearTripFlowTest:40 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 01:22:46 INFO  ClearTripFlowTest:43 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 01:22:46 INFO  ClearTripFlowTest:46 - Clicking on datePicker element 
+2019-10-07 01:22:46 INFO  ClearTripFlowTest:49 - Departure date is being calculated and entered--Date is 
+2019-10-07 01:22:46 INFO  HomePage:68 - --------------------Mon Oct 21 01:22:46 IST 2019--------------------
+2019-10-07 01:22:47 INFO  ClearTripFlowTest:52 - Selecting Adult as 1
+2019-10-07 01:22:47 INFO  ClearTripFlowTest:55 - Selecting Child as 1
+2019-10-07 01:22:47 INFO  ClearTripFlowTest:58 - Clicking on search button
+2019-10-07 01:22:47 INFO  ClearTripFlowTest:61 - Page is getting opened with all flight details
+2019-10-07 01:22:47 INFO  ClearTripFlowTest:63 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 01:22:47 INFO  ClearTripFlowTest:66 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 01:22:54 INFO  ClearTripFlowTest:73 - Cheapest flight price 
+2019-10-07 01:22:54 INFO  ClearTripFlowTest:77 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 01:22:54 INFO  ClearTripFlowTest:79 - Preparing locator for clicking the Book button for this flight
+2019-10-07 01:23:04 INFO  ClearTripFlowTest:83 - Clicking continue button
+2019-10-07 01:23:08 INFO  ClearTripFlowTest:87 - Insurance is being accepted
+2019-10-07 01:23:08 INFO  ClearTripFlowTest:91 - Clicking continue button
+2019-10-07 01:23:08 INFO  ClearTripFlowTest:95 - Entering email
+2019-10-07 01:29:56 INFO  WaitHelper:22 - 180
+2019-10-07 01:29:56 INFO  WaitHelper:27 - 240
+2019-10-07 01:29:56 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 01:29:56 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-07 01:30:00 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 01:30:00 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 01:30:01 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 01:30:02 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-07 01:30:02 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered--Date is 
+2019-10-07 01:30:02 INFO  HomePage:68 - --------------------Mon Oct 21 01:30:02 IST 2019--------------------
+2019-10-07 01:30:02 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-07 01:30:02 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-07 01:30:02 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-07 01:30:02 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-07 01:30:02 INFO  ClearTripFlowTest:61 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 01:30:02 INFO  ClearTripFlowTest:64 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 01:30:09 INFO  ClearTripFlowTest:71 - Cheapest flight price 
+2019-10-07 01:30:09 INFO  ClearTripFlowTest:75 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 01:30:09 INFO  ClearTripFlowTest:77 - Preparing locator for clicking the Book button for this flight
+2019-10-07 01:30:20 INFO  ClearTripFlowTest:81 - Clicking continue button
+2019-10-07 01:30:22 INFO  ClearTripFlowTest:85 - Insurance is being accepted
+2019-10-07 01:30:23 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 01:30:23 INFO  ClearTripFlowTest:93 - Entering email
+2019-10-07 01:37:34 INFO  WaitHelper:22 - 180
+2019-10-07 01:37:34 INFO  WaitHelper:27 - 240
+2019-10-07 01:37:34 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 01:37:34 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-07 01:37:39 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 01:37:39 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 01:37:39 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 01:37:40 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-07 01:37:40 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered--Date is 
+2019-10-07 01:37:40 INFO  HomePage:68 - --------------------Mon Oct 21 01:37:40 IST 2019--------------------
+2019-10-07 01:37:40 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-07 01:37:40 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-07 01:37:40 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-07 01:37:40 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-07 01:37:40 INFO  ClearTripFlowTest:61 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 01:37:41 INFO  ClearTripFlowTest:64 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 01:37:46 INFO  ClearTripFlowTest:71 - Cheapest flight price 
+2019-10-07 01:37:46 INFO  ClearTripFlowTest:75 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 01:37:46 INFO  ClearTripFlowTest:77 - Preparing locator for clicking the Book button for this flight
+2019-10-07 01:37:56 INFO  ClearTripFlowTest:81 - Clicking continue button
+2019-10-07 01:37:58 INFO  ClearTripFlowTest:85 - Insurance is being accepted
+2019-10-07 01:37:58 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 01:37:58 INFO  ClearTripFlowTest:93 - Entering email
+2019-10-07 01:39:15 INFO  WaitHelper:22 - 180
+2019-10-07 01:39:15 INFO  WaitHelper:27 - 240
+2019-10-07 01:39:15 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 01:39:15 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-07 01:39:19 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 01:39:19 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 01:39:20 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 01:39:21 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-07 01:39:21 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered--Date is 
+2019-10-07 01:39:21 INFO  HomePage:68 - --------------------Mon Oct 21 01:39:21 IST 2019--------------------
+2019-10-07 01:39:21 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-07 01:39:21 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-07 01:39:21 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-07 01:39:21 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-07 01:39:21 INFO  ClearTripFlowTest:61 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 01:39:21 INFO  ClearTripFlowTest:64 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 01:39:28 INFO  ClearTripFlowTest:71 - Cheapest flight price 
+2019-10-07 01:39:28 INFO  ClearTripFlowTest:75 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 01:39:28 INFO  ClearTripFlowTest:77 - Preparing locator for clicking the Book button for this flight
+2019-10-07 01:39:39 INFO  ClearTripFlowTest:81 - Clicking continue button
+2019-10-07 01:39:40 INFO  ClearTripFlowTest:85 - Insurance is being accepted
+2019-10-07 01:39:40 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 01:39:40 INFO  ClearTripFlowTest:93 - Entering email
+2019-10-07 01:45:23 INFO  WaitHelper:22 - 180
+2019-10-07 01:45:23 INFO  WaitHelper:27 - 240
+2019-10-07 01:45:23 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 01:45:23 INFO  ClearTripFlowTest:28 - Mandatory Configutaion is loaded
+2019-10-07 01:45:28 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 01:45:28 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 01:45:28 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 01:45:29 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-07 01:45:29 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered--Date is 
+2019-10-07 01:45:29 INFO  HomePage:68 - --------------------Mon Oct 21 01:45:29 IST 2019--------------------
+2019-10-07 01:45:29 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-07 01:45:29 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-07 01:45:29 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-07 01:45:29 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-07 01:45:29 INFO  ClearTripFlowTest:61 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 01:45:30 INFO  ClearTripFlowTest:64 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 01:45:36 INFO  ClearTripFlowTest:71 - Cheapest flight price 
+2019-10-07 01:45:36 INFO  ClearTripFlowTest:75 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 01:45:36 INFO  ClearTripFlowTest:77 - Preparing locator for clicking the Book button for this flight
+2019-10-07 01:45:46 INFO  ClearTripFlowTest:81 - Clicking continue button
+2019-10-07 01:45:50 INFO  ClearTripFlowTest:85 - Insurance is being accepted
+2019-10-07 01:45:50 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 01:45:51 INFO  ClearTripFlowTest:93 - Entering email
+2019-10-07 01:57:14 INFO  WaitHelper:22 - 180
+2019-10-07 01:57:14 INFO  WaitHelper:27 - 240
+2019-10-07 01:57:14 INFO  ClearTripFlowTest:27 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 01:57:14 INFO  ClearTripFlowTest:29 - Mandatory Configutaion is loaded
+2019-10-07 01:57:18 INFO  ClearTripFlowTest:33 - page is being maximized
+2019-10-07 01:57:18 INFO  ClearTripFlowTest:39 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 01:57:19 INFO  ClearTripFlowTest:42 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 01:57:20 INFO  ClearTripFlowTest:45 - Clicking on datePicker element 
+2019-10-07 01:57:20 INFO  ClearTripFlowTest:48 - Departure date is being calculated and entered--Date is 
+2019-10-07 01:57:20 INFO  HomePage:68 - --------------------Mon Oct 21 01:57:20 IST 2019--------------------
+2019-10-07 01:57:20 INFO  ClearTripFlowTest:51 - Selecting Adult as 1
+2019-10-07 01:57:20 INFO  ClearTripFlowTest:54 - Selecting Child as 1
+2019-10-07 01:57:20 INFO  ClearTripFlowTest:57 - Clicking on search button
+2019-10-07 01:57:20 INFO  ClearTripFlowTest:60 - Page is getting opened with all flight details
+2019-10-07 01:57:20 INFO  ClearTripFlowTest:62 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 01:57:20 INFO  ClearTripFlowTest:65 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 01:57:28 INFO  ClearTripFlowTest:72 - Cheapest flight price 
+2019-10-07 01:57:28 INFO  ClearTripFlowTest:76 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 01:57:28 INFO  ClearTripFlowTest:78 - Preparing locator for clicking the Book button for this flight
+2019-10-07 01:57:38 INFO  ClearTripFlowTest:82 - Clicking continue button
+2019-10-07 01:57:39 INFO  ClearTripFlowTest:86 - Insurance is being accepted
+2019-10-07 01:57:39 INFO  ClearTripFlowTest:90 - Clicking continue button
+2019-10-07 01:57:40 INFO  ClearTripFlowTest:94 - Entering email
+2019-10-07 01:58:56 INFO  WaitHelper:22 - 180
+2019-10-07 01:58:57 INFO  WaitHelper:27 - 240
+2019-10-07 01:58:57 INFO  ClearTripFlowTest:27 - seleniumassignment.ClearTripFlowTeststarted
+2019-10-07 01:58:57 INFO  ClearTripFlowTest:29 - Mandatory Configutaion is loaded
+2019-10-07 01:59:01 INFO  ClearTripFlowTest:33 - page is being maximized
+2019-10-07 01:59:01 INFO  ClearTripFlowTest:39 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 01:59:02 INFO  ClearTripFlowTest:42 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 01:59:03 INFO  ClearTripFlowTest:45 - Clicking on datePicker element 
+2019-10-07 01:59:03 INFO  ClearTripFlowTest:48 - Departure date is being calculated and entered--Date is 
+2019-10-07 01:59:03 INFO  HomePage:68 - --------------------Mon Oct 21 01:59:03 IST 2019--------------------
+2019-10-07 01:59:03 INFO  ClearTripFlowTest:51 - Selecting Adult as 1
+2019-10-07 01:59:03 INFO  ClearTripFlowTest:54 - Selecting Child as 1
+2019-10-07 01:59:03 INFO  ClearTripFlowTest:57 - Clicking on search button
+2019-10-07 01:59:03 INFO  ClearTripFlowTest:60 - Page is getting opened with all flight details
+2019-10-07 01:59:03 INFO  ClearTripFlowTest:62 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 01:59:04 INFO  ClearTripFlowTest:65 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 01:59:16 INFO  ClearTripFlowTest:72 - Cheapest flight price 
+2019-10-07 01:59:16 INFO  ClearTripFlowTest:76 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 01:59:16 INFO  ClearTripFlowTest:78 - Preparing locator for clicking the Book button for this flight
+2019-10-07 01:59:26 INFO  ClearTripFlowTest:82 - Clicking continue button
+2019-10-07 01:59:27 INFO  ClearTripFlowTest:86 - Insurance is being accepted
+2019-10-07 01:59:28 INFO  ClearTripFlowTest:90 - Clicking continue button
+2019-10-07 01:59:28 INFO  ClearTripFlowTest:94 - Entering email
+2019-10-07 02:13:30 INFO  WaitHelper:22 - 180
+2019-10-07 02:13:30 INFO  WaitHelper:27 - 240
+2019-10-07 02:13:30 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2019-10-07 02:13:30 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2019-10-07 02:13:35 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 02:13:35 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 02:13:36 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 02:13:37 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-07 02:13:37 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered--Date is 
+2019-10-07 02:13:37 INFO  HomePage:68 - --------------------Mon Oct 21 02:13:37 IST 2019--------------------
+2019-10-07 02:13:37 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-07 02:13:37 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-07 02:13:37 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-07 02:13:37 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-07 02:13:37 INFO  ClearTripFlowTest:61 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 02:13:37 INFO  ClearTripFlowTest:64 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 02:13:44 INFO  ClearTripFlowTest:71 - Cheapest flight price 
+2019-10-07 02:13:44 INFO  ClearTripFlowTest:75 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 02:13:44 INFO  ClearTripFlowTest:77 - Preparing locator for clicking the Book button for this flight
+2019-10-07 02:13:44 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.10,650 
+            ')]/../parent::*//button[@type='submit']
+2019-10-07 02:13:54 INFO  ClearTripFlowTest:81 - Clicking continue button
+2019-10-07 02:13:55 INFO  ClearTripFlowTest:85 - Insurance is being accepted
+2019-10-07 02:13:58 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 02:13:58 INFO  ClearTripFlowTest:93 - Entering email
+2019-10-07 02:14:00 INFO  ClearTripFlowTest:103 - Entering traveller information
+2019-10-07 02:14:09 INFO  ClearTripFlowTest:109 - Entering child information
+2019-10-07 02:14:09 INFO  ClearTripFlowTest:113 - Entering traveller's phone number
+2019-10-07 02:14:09 INFO  ClearTripFlowTest:117 - Finally proceeding for Payment
+2019-10-07 02:14:16 INFO  ClearTripFlowTest:123 - Finally Verifying Payment Section is appeared or not--True in Appeared Case
+2019-10-07 02:23:13 INFO  TestBase:114 - loading config.properties
+2019-10-07 02:23:35 INFO  WaitHelper:22 - 180
+2019-10-07 02:23:35 INFO  WaitHelper:27 - 240
+2019-10-07 02:23:35 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2019-10-07 02:23:35 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2019-10-07 02:23:40 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 02:23:40 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 02:23:41 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 02:23:42 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-07 02:23:42 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered--Date is 
+2019-10-07 02:23:42 INFO  HomePage:68 - --------------------Mon Oct 21 02:23:42 IST 2019--------------------
+2019-10-07 02:23:42 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-07 02:23:42 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-07 02:23:42 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-07 02:23:42 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-07 02:23:42 INFO  ClearTripFlowTest:61 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 02:23:42 INFO  ClearTripFlowTest:64 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 02:23:49 INFO  ClearTripFlowTest:71 - Cheapest flight price 
+2019-10-07 02:23:49 INFO  ClearTripFlowTest:75 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 02:23:49 INFO  ClearTripFlowTest:77 - Preparing locator for clicking the Book button for this flight
+2019-10-07 02:23:49 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.10,650 
+            ')]/../parent::*//button[@type='submit']
+2019-10-07 02:23:59 INFO  ClearTripFlowTest:81 - Clicking continue button
+2019-10-07 02:24:03 INFO  ClearTripFlowTest:85 - Insurance is being accepted
+2019-10-07 02:24:03 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 02:24:03 INFO  ClearTripFlowTest:93 - Entering email
+2019-10-07 02:24:09 INFO  ClearTripFlowTest:103 - Entering traveller information
+2019-10-07 02:24:14 INFO  ClearTripFlowTest:109 - Entering child information
+2019-10-07 02:24:14 INFO  ClearTripFlowTest:113 - Entering traveller's phone number
+2019-10-07 02:24:15 INFO  ClearTripFlowTest:117 - Finally proceeding for Payment
+2019-10-07 02:24:20 INFO  ClearTripFlowTest:123 - Finally Verifying Payment Section is appeared or not--True in Appeared Case
+2019-10-07 02:28:01 INFO  TestBase:114 - loading config.properties
+2019-10-07 02:28:03 INFO  WaitHelper:22 - 180
+2019-10-07 02:28:03 INFO  WaitHelper:27 - 240
+2019-10-07 02:28:03 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2019-10-07 02:28:03 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2019-10-07 02:28:07 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 02:28:07 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 02:28:08 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 02:28:08 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-07 02:28:08 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered--Date is 
+2019-10-07 02:28:08 INFO  HomePage:68 - --------------------Mon Oct 21 02:28:08 IST 2019--------------------
+2019-10-07 02:28:08 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-07 02:28:08 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-07 02:28:09 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-07 02:28:09 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-07 02:28:09 INFO  ClearTripFlowTest:61 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 02:28:09 INFO  ClearTripFlowTest:64 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 02:28:14 INFO  ClearTripFlowTest:71 - Cheapest flight price 
+2019-10-07 02:28:14 INFO  ClearTripFlowTest:75 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 02:28:14 INFO  ClearTripFlowTest:77 - Preparing locator for clicking the Book button for this flight
+2019-10-07 02:28:14 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.10,650 
+            ')]/../parent::*//button[@type='submit']
+2019-10-07 02:28:24 INFO  ClearTripFlowTest:81 - Clicking continue button
+2019-10-07 02:28:25 INFO  ClearTripFlowTest:85 - Insurance is being accepted
+2019-10-07 02:28:25 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 02:28:25 INFO  ClearTripFlowTest:93 - Entering email
+2019-10-07 02:28:31 INFO  ClearTripFlowTest:103 - Entering traveller information
+2019-10-07 02:28:36 INFO  ClearTripFlowTest:109 - Entering child information
+2019-10-07 02:28:37 INFO  ClearTripFlowTest:113 - Entering traveller's phone number
+2019-10-07 02:28:37 INFO  ClearTripFlowTest:117 - Finally proceeding for Payment
+2019-10-07 02:28:44 INFO  ClearTripFlowTest:123 - Finally Verifying Payment Section is appeared or not--True in Appeared Case
+2019-10-07 02:31:12 INFO  TestBase:114 - loading config.properties
+2019-10-07 02:31:14 INFO  WaitHelper:22 - 180
+2019-10-07 02:31:14 INFO  WaitHelper:27 - 240
+2019-10-07 02:31:15 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2019-10-07 02:31:15 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2019-10-07 02:31:19 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 02:31:19 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 02:31:20 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 02:31:20 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-07 02:31:21 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered--Date is 
+2019-10-07 02:31:21 INFO  HomePage:68 - --------------------Mon Oct 21 02:31:21 IST 2019--------------------
+2019-10-07 02:31:21 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-07 02:31:21 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-07 02:31:21 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-07 02:31:21 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-07 02:31:21 INFO  ClearTripFlowTest:61 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 02:31:21 INFO  ClearTripFlowTest:64 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 02:31:27 INFO  ClearTripFlowTest:71 - Cheapest flight price 
+2019-10-07 02:31:27 INFO  ClearTripFlowTest:75 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 02:31:27 INFO  ClearTripFlowTest:77 - Preparing locator for clicking the Book button for this flight
+2019-10-07 02:31:27 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.10,650 
+            ')]/../parent::*//button[@type='submit']
+2019-10-07 02:31:37 INFO  ClearTripFlowTest:81 - Clicking continue button
+2019-10-07 02:31:39 INFO  ClearTripFlowTest:85 - Insurance is being accepted
+2019-10-07 02:31:40 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 02:31:40 INFO  ClearTripFlowTest:93 - Entering email
+2019-10-07 02:31:43 INFO  ClearTripFlowTest:103 - Entering traveller information
+2019-10-07 02:31:50 INFO  ClearTripFlowTest:109 - Entering child information
+2019-10-07 02:31:51 INFO  ClearTripFlowTest:113 - Entering traveller's phone number
+2019-10-07 02:31:51 INFO  ClearTripFlowTest:117 - Finally proceeding for Payment
+2019-10-07 02:31:58 INFO  ClearTripFlowTest:123 - Finally Verifying Payment Section is appeared or not--True in Appeared Case
+2019-10-07 02:43:11 INFO  TestBase:114 - loading config.properties
+2019-10-07 02:43:14 INFO  WaitHelper:22 - 180
+2019-10-07 02:43:14 INFO  WaitHelper:27 - 240
+2019-10-07 02:43:14 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2019-10-07 02:43:14 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2019-10-07 02:43:18 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 02:43:19 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 02:43:19 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 02:43:20 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-07 02:43:20 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered--Date is 
+2019-10-07 02:43:20 INFO  HomePage:68 - --------------------Mon Oct 21 02:43:20 IST 2019--------------------
+2019-10-07 02:43:20 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-07 02:43:20 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-07 02:43:20 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-07 02:43:20 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-07 02:43:20 INFO  ClearTripFlowTest:61 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 02:43:21 INFO  ClearTripFlowTest:64 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 02:43:26 INFO  ClearTripFlowTest:71 - Cheapest flight price 
+2019-10-07 02:43:26 INFO  ClearTripFlowTest:75 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 02:43:26 INFO  ClearTripFlowTest:77 - Preparing locator for clicking the Book button for this flight
+2019-10-07 02:43:26 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.10,650 
+            ')]/../parent::*//button[@type='submit']
+2019-10-07 02:43:36 INFO  ClearTripFlowTest:81 - Clicking continue button
+2019-10-07 02:43:36 INFO  ClearTripFlowTest:85 - Insurance is being accepted
+2019-10-07 02:43:40 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 02:43:40 INFO  ClearTripFlowTest:93 - Entering email
+2019-10-07 02:43:43 INFO  ClearTripFlowTest:103 - Entering traveller information
+2019-10-07 02:43:50 INFO  ClearTripFlowTest:109 - Entering child information
+2019-10-07 02:43:51 INFO  ClearTripFlowTest:113 - Entering traveller's phone number
+2019-10-07 02:43:51 INFO  ClearTripFlowTest:117 - Finally proceeding for Payment
+2019-10-07 02:43:59 INFO  ClearTripFlowTest:123 - Finally Verifying Payment Section is appeared or not--True in Appeared Case
+2019-10-07 02:45:14 INFO  TestBase:114 - loading config.properties
+2019-10-07 02:45:20 INFO  WaitHelper:22 - 180
+2019-10-07 02:45:20 INFO  WaitHelper:27 - 240
+2019-10-07 02:45:20 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2019-10-07 02:45:20 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2019-10-07 02:45:26 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 02:45:26 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 02:45:27 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 02:45:27 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-07 02:45:27 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered--Date is 
+2019-10-07 02:45:27 INFO  HomePage:68 - --------------------Mon Oct 21 02:45:27 IST 2019--------------------
+2019-10-07 02:45:27 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-07 02:45:28 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-07 02:45:28 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-07 02:45:28 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-07 02:45:28 INFO  ClearTripFlowTest:61 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 02:45:28 INFO  ClearTripFlowTest:64 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 02:45:34 INFO  ClearTripFlowTest:71 - Cheapest flight price 
+2019-10-07 02:45:34 INFO  ClearTripFlowTest:75 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 02:45:34 INFO  ClearTripFlowTest:77 - Preparing locator for clicking the Book button for this flight
+2019-10-07 02:45:34 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.10,650 
+            ')]/../parent::*//button[@type='submit']
+2019-10-07 02:45:44 INFO  ClearTripFlowTest:81 - Clicking continue button
+2019-10-07 02:45:44 INFO  ClearTripFlowTest:85 - Insurance is being accepted
+2019-10-07 02:45:45 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 02:45:45 INFO  ClearTripFlowTest:93 - Entering email
+2019-10-07 02:45:47 INFO  ClearTripFlowTest:103 - Entering traveller information
+2019-10-07 02:45:59 INFO  ClearTripFlowTest:109 - Entering child information
+2019-10-07 02:45:59 INFO  ClearTripFlowTest:113 - Entering traveller's phone number
+2019-10-07 02:46:00 INFO  ClearTripFlowTest:117 - Finally proceeding for Payment
+2019-10-07 02:46:07 INFO  ClearTripFlowTest:123 - Finally Verifying Payment Section is appeared or not--True in Appeared Case
+2019-10-07 02:47:55 INFO  TestBase:114 - loading config.properties
+2019-10-07 02:48:07 INFO  WaitHelper:22 - 180
+2019-10-07 02:48:07 INFO  WaitHelper:27 - 240
+2019-10-07 02:48:07 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2019-10-07 02:48:07 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2019-10-07 02:48:11 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 02:48:11 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 02:48:12 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 02:48:13 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-07 02:48:13 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered--Date is 
+2019-10-07 02:48:13 INFO  HomePage:68 - --------------------Mon Oct 21 02:48:13 IST 2019--------------------
+2019-10-07 02:48:13 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-07 02:48:13 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-07 02:48:13 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-07 02:48:13 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-07 02:48:13 INFO  ClearTripFlowTest:61 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 02:48:13 INFO  ClearTripFlowTest:64 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 02:48:20 INFO  ClearTripFlowTest:71 - Cheapest flight price 
+2019-10-07 02:48:20 INFO  ClearTripFlowTest:75 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 02:48:20 INFO  ClearTripFlowTest:77 - Preparing locator for clicking the Book button for this flight
+2019-10-07 02:48:20 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.10,650 
+            ')]/../parent::*//button[@type='submit']
+2019-10-07 02:48:30 INFO  ClearTripFlowTest:81 - Clicking continue button
+2019-10-07 02:48:33 INFO  ClearTripFlowTest:85 - Insurance is being accepted
+2019-10-07 02:48:34 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 02:48:34 INFO  ClearTripFlowTest:93 - Entering email
+2019-10-07 02:48:40 INFO  ClearTripFlowTest:103 - Entering traveller information
+2019-10-07 02:48:46 INFO  ClearTripFlowTest:109 - Entering child information
+2019-10-07 02:48:46 INFO  ClearTripFlowTest:113 - Entering traveller's phone number
+2019-10-07 02:48:46 INFO  ClearTripFlowTest:117 - Finally proceeding for Payment
+2019-10-07 02:48:54 INFO  ClearTripFlowTest:123 - Finally Verifying Payment Section is appeared or not--True in Appeared Case
+2019-10-07 02:51:25 INFO  TestBase:114 - loading config.properties
+2019-10-07 02:51:27 INFO  WaitHelper:22 - 180
+2019-10-07 02:51:27 INFO  WaitHelper:27 - 240
+2019-10-07 02:51:28 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2019-10-07 02:51:28 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2019-10-07 02:51:32 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 02:51:32 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 02:51:33 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 02:51:34 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-07 02:51:34 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered--Date is 
+2019-10-07 02:51:34 INFO  HomePage:68 - --------------------Mon Oct 21 02:51:34 IST 2019--------------------
+2019-10-07 02:51:34 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-07 02:51:34 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-07 02:51:34 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-07 02:51:34 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-07 02:51:34 INFO  ClearTripFlowTest:61 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 02:51:34 INFO  ClearTripFlowTest:64 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 02:51:39 INFO  ClearTripFlowTest:71 - Cheapest flight price 
+2019-10-07 02:51:39 INFO  ClearTripFlowTest:75 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 02:51:39 INFO  ClearTripFlowTest:77 - Preparing locator for clicking the Book button for this flight
+2019-10-07 02:51:39 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.10,650 
+            ')]/../parent::*//button[@type='submit']
+2019-10-07 02:51:49 INFO  ClearTripFlowTest:81 - Clicking continue button
+2019-10-07 02:51:49 INFO  ClearTripFlowTest:85 - Insurance is being accepted
+2019-10-07 02:51:49 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 02:51:49 INFO  ClearTripFlowTest:93 - Entering email
+2019-10-07 02:51:59 INFO  ClearTripFlowTest:103 - Entering traveller information
+2019-10-07 02:52:03 INFO  ClearTripFlowTest:109 - Entering child information
+2019-10-07 02:52:04 INFO  ClearTripFlowTest:113 - Entering traveller's phone number
+2019-10-07 02:52:04 INFO  ClearTripFlowTest:117 - Finally proceeding for Payment
+2019-10-07 02:52:12 INFO  ClearTripFlowTest:123 - Finally Verifying Payment Section is appeared or not--True in Appeared Case
+2019-10-07 02:57:41 INFO  TestBase:113 - loading config.properties
+2019-10-07 02:57:43 INFO  WaitHelper:22 - 180
+2019-10-07 02:57:44 INFO  WaitHelper:27 - 240
+2019-10-07 02:57:44 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2019-10-07 02:57:44 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2019-10-07 02:57:48 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 02:57:48 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 02:57:49 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 02:57:50 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-07 02:57:50 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered--Date is 
+2019-10-07 02:57:50 INFO  HomePage:68 - --------------------Mon Oct 21 02:57:50 IST 2019--------------------
+2019-10-07 02:57:50 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-07 02:57:50 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-07 02:57:50 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-07 02:57:50 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-07 02:57:50 INFO  ClearTripFlowTest:61 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 02:57:50 INFO  ClearTripFlowTest:64 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 02:57:57 INFO  ClearTripFlowTest:71 - Cheapest flight price 
+2019-10-07 02:57:57 INFO  ClearTripFlowTest:75 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 02:57:57 INFO  ClearTripFlowTest:77 - Preparing locator for clicking the Book button for this flight
+2019-10-07 02:57:57 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.10,650 
+            ')]/../parent::*//button[@type='submit']
+2019-10-07 02:58:07 INFO  ClearTripFlowTest:81 - Clicking continue button
+2019-10-07 02:58:08 INFO  ClearTripFlowTest:85 - Insurance is being accepted
+2019-10-07 02:58:09 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 02:58:09 INFO  ClearTripFlowTest:93 - Entering email
+2019-10-07 02:58:10 INFO  ClearTripFlowTest:103 - Entering traveller information
+2019-10-07 02:58:14 INFO  ClearTripFlowTest:109 - Entering child information
+2019-10-07 02:58:20 INFO  ClearTripFlowTest:113 - Entering traveller's phone number
+2019-10-07 02:58:20 INFO  ClearTripFlowTest:117 - Finally proceeding for Payment
+2019-10-07 02:58:27 INFO  ClearTripFlowTest:123 - Finally Verifying Payment Section is appeared or not--True in Appeared Case
+2019-10-07 02:59:20 INFO  TestBase:113 - loading config.properties
+2019-10-07 02:59:22 INFO  WaitHelper:22 - 180
+2019-10-07 02:59:22 INFO  WaitHelper:27 - 240
+2019-10-07 02:59:22 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2019-10-07 02:59:22 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2019-10-07 02:59:26 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 02:59:26 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 02:59:27 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 02:59:28 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-07 02:59:28 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered--Date is 
+2019-10-07 02:59:28 INFO  HomePage:68 - --------------------Mon Oct 21 02:59:28 IST 2019--------------------
+2019-10-07 02:59:28 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-07 02:59:28 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-07 02:59:28 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-07 02:59:28 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-07 02:59:28 INFO  ClearTripFlowTest:61 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 02:59:29 INFO  ClearTripFlowTest:64 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 02:59:36 INFO  ClearTripFlowTest:71 - Cheapest flight price 
+2019-10-07 02:59:36 INFO  ClearTripFlowTest:75 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 02:59:36 INFO  ClearTripFlowTest:77 - Preparing locator for clicking the Book button for this flight
+2019-10-07 02:59:36 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.10,650 
+            ')]/../parent::*//button[@type='submit']
+2019-10-07 02:59:46 INFO  ClearTripFlowTest:81 - Clicking continue button
+2019-10-07 02:59:48 INFO  ClearTripFlowTest:85 - Insurance is being accepted
+2019-10-07 02:59:49 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 02:59:49 INFO  ClearTripFlowTest:93 - Entering email
+2019-10-07 02:59:55 INFO  ClearTripFlowTest:103 - Entering traveller information
+2019-10-07 03:00:00 INFO  ClearTripFlowTest:109 - Entering child information
+2019-10-07 03:00:01 INFO  ClearTripFlowTest:113 - Entering traveller's phone number
+2019-10-07 03:00:01 INFO  ClearTripFlowTest:117 - Finally proceeding for Payment
+2019-10-07 03:00:08 INFO  ClearTripFlowTest:123 - Finally Verifying Payment Section is appeared or not--True in Appeared Case
+2019-10-07 03:06:18 INFO  TestBase:113 - loading config.properties
+2019-10-07 03:06:20 INFO  WaitHelper:22 - 180
+2019-10-07 03:06:20 INFO  WaitHelper:27 - 240
+2019-10-07 03:06:20 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2019-10-07 03:06:20 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2019-10-07 03:06:24 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 03:06:24 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 03:06:26 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 03:06:27 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-07 03:06:27 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered--Date is 
+2019-10-07 03:06:27 INFO  HomePage:68 - --------------------Mon Oct 21 03:06:27 IST 2019--------------------
+2019-10-07 03:06:27 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-07 03:06:27 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-07 03:06:27 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-07 03:06:27 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-07 03:06:27 INFO  ClearTripFlowTest:61 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 03:06:27 INFO  ClearTripFlowTest:64 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 03:06:36 INFO  ClearTripFlowTest:71 - Cheapest flight price 
+2019-10-07 03:06:36 INFO  ClearTripFlowTest:75 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 03:06:36 INFO  ClearTripFlowTest:77 - Preparing locator for clicking the Book button for this flight
+2019-10-07 03:06:36 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.10,650 
+            ')]/../parent::*//button[@type='submit']
+2019-10-07 03:06:46 INFO  ClearTripFlowTest:81 - Clicking continue button
+2019-10-07 03:06:48 INFO  ClearTripFlowTest:85 - Insurance is being accepted
+2019-10-07 03:06:49 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 03:06:49 INFO  ClearTripFlowTest:93 - Entering email
+2019-10-07 03:06:51 INFO  ClearTripFlowTest:103 - Entering traveller information
+2019-10-07 03:07:00 INFO  ClearTripFlowTest:109 - Entering child information
+2019-10-07 03:07:01 INFO  ClearTripFlowTest:113 - Entering traveller's phone number
+2019-10-07 03:07:01 INFO  ClearTripFlowTest:117 - Finally proceeding for Payment
+2019-10-07 03:07:08 INFO  ClearTripFlowTest:123 - Finally Verifying Payment Section is appeared or not--True in Appeared Case
+2019-10-07 03:07:08 INFO  ClearTripFlowTest:127 - Quitting the browser now
+2019-10-07 03:12:09 INFO  TestBase:115 - loading config.properties
+2019-10-07 03:12:21 INFO  WaitHelper:22 - 180
+2019-10-07 03:12:21 INFO  WaitHelper:27 - 240
+2019-10-07 03:12:21 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2019-10-07 03:12:21 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2019-10-07 03:12:25 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 03:12:25 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 03:12:27 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 03:12:28 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-07 03:12:29 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered--Date is 
+2019-10-07 03:12:29 INFO  HomePage:68 - --------------------Mon Oct 21 03:12:29 IST 2019--------------------
+2019-10-07 03:12:29 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-07 03:12:29 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-07 03:12:29 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-07 03:12:29 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-07 03:12:29 INFO  ClearTripFlowTest:61 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 03:12:29 INFO  ClearTripFlowTest:64 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 03:12:55 INFO  ClearTripFlowTest:71 - Cheapest flight price 
+2019-10-07 03:12:55 INFO  ClearTripFlowTest:75 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 03:12:55 INFO  ClearTripFlowTest:77 - Preparing locator for clicking the Book button for this flight
+2019-10-07 03:12:55 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.10,650 
+            ')]/../parent::*//button[@type='submit']
+2019-10-07 03:13:05 INFO  ClearTripFlowTest:81 - Clicking continue button
+2019-10-07 03:13:05 INFO  ClearTripFlowTest:85 - Insurance is being accepted
+2019-10-07 03:13:05 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 03:13:06 INFO  ClearTripFlowTest:93 - Entering email
+2019-10-07 03:13:07 INFO  ClearTripFlowTest:103 - Entering traveller information
+2019-10-07 03:14:04 INFO  TestBase:115 - loading config.properties
+2019-10-07 03:15:04 INFO  TestBase:115 - loading config.properties
+2019-10-07 03:15:07 INFO  WaitHelper:22 - 180
+2019-10-07 03:15:07 INFO  WaitHelper:27 - 240
+2019-10-07 03:15:07 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2019-10-07 03:15:07 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2019-10-07 03:15:11 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 03:15:11 INFO  ClearTripFlowTest:38 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 03:15:11 INFO  ClearTripFlowTest:41 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 03:15:12 INFO  ClearTripFlowTest:44 - Clicking on datePicker element 
+2019-10-07 03:15:12 INFO  ClearTripFlowTest:47 - Departure date is being calculated and entered--Date is 
+2019-10-07 03:15:12 INFO  HomePage:68 - --------------------Mon Oct 21 03:15:12 IST 2019--------------------
+2019-10-07 03:15:12 INFO  ClearTripFlowTest:50 - Selecting Adult as 1
+2019-10-07 03:15:12 INFO  ClearTripFlowTest:53 - Selecting Child as 1
+2019-10-07 03:15:12 INFO  ClearTripFlowTest:56 - Clicking on search button
+2019-10-07 03:15:12 INFO  ClearTripFlowTest:59 - Page is getting opened with all flight details
+2019-10-07 03:15:12 INFO  ClearTripFlowTest:61 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 03:15:13 INFO  ClearTripFlowTest:64 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 03:15:19 INFO  ClearTripFlowTest:71 - Cheapest flight price 
+2019-10-07 03:15:19 INFO  ClearTripFlowTest:75 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 03:15:19 INFO  ClearTripFlowTest:77 - Preparing locator for clicking the Book button for this flight
+2019-10-07 03:15:19 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.10,650 
+            ')]/../parent::*//button[@type='submit']
+2019-10-07 03:15:29 INFO  ClearTripFlowTest:81 - Clicking continue button
+2019-10-07 03:15:31 INFO  ClearTripFlowTest:85 - Insurance is being accepted
+2019-10-07 03:15:31 INFO  ClearTripFlowTest:89 - Clicking continue button
+2019-10-07 03:15:31 INFO  ClearTripFlowTest:93 - Entering email
+2019-10-07 03:15:38 INFO  ClearTripFlowTest:103 - Entering traveller information
+2019-10-07 03:15:43 INFO  ClearTripFlowTest:109 - Entering child information
+2019-10-07 03:15:44 INFO  ClearTripFlowTest:113 - Entering traveller's phone number
+2019-10-07 03:15:44 INFO  ClearTripFlowTest:117 - Finally proceeding for Payment
+2019-10-07 03:15:52 INFO  ClearTripFlowTest:123 - Finally Verifying Payment Section is appeared or not--True in Appeared Case
+2019-10-07 03:15:52 INFO  ClearTripFlowTest:127 - Quitting the browser now
+2019-10-07 03:19:36 INFO  TestBase:115 - loading config.properties
+2019-10-07 03:19:47 INFO  WaitHelper:22 - 180
+2019-10-07 03:19:47 INFO  WaitHelper:27 - 240
+2019-10-07 03:19:47 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2019-10-07 03:19:47 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2019-10-07 03:19:53 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 03:19:54 INFO  ClearTripFlowTest:36 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 03:19:56 INFO  ClearTripFlowTest:39 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 03:19:57 INFO  ClearTripFlowTest:42 - Clicking on datePicker element 
+2019-10-07 03:19:57 INFO  ClearTripFlowTest:45 - Departure date is being calculated and entered--Date is 
+2019-10-07 03:19:57 INFO  HomePage:68 - --------------------Mon Oct 21 03:19:57 IST 2019--------------------
+2019-10-07 03:19:57 INFO  ClearTripFlowTest:48 - Selecting Adult as 1
+2019-10-07 03:19:57 INFO  ClearTripFlowTest:51 - Selecting Child as 1
+2019-10-07 03:19:57 INFO  ClearTripFlowTest:54 - Clicking on search button
+2019-10-07 03:19:58 INFO  ClearTripFlowTest:57 - Page is getting opened with all flight details
+2019-10-07 03:19:58 INFO  ClearTripFlowTest:59 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 03:19:58 INFO  ClearTripFlowTest:62 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 03:20:06 INFO  ClearTripFlowTest:69 - Cheapest flight price 
+2019-10-07 03:20:06 INFO  ClearTripFlowTest:73 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 03:20:06 INFO  ClearTripFlowTest:75 - Preparing locator for clicking the Book button for this flight
+2019-10-07 03:20:06 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.10,650 
+            ')]/../parent::*//button[@type='submit']
+2019-10-07 03:20:17 INFO  ClearTripFlowTest:79 - Clicking continue button
+2019-10-07 03:20:17 INFO  ClearTripFlowTest:83 - Insurance is being accepted
+2019-10-07 03:20:18 INFO  ClearTripFlowTest:87 - Clicking continue button
+2019-10-07 03:20:19 INFO  ClearTripFlowTest:91 - Entering email
+2019-10-07 03:22:59 INFO  TestBase:115 - loading config.properties
+2019-10-07 03:23:04 INFO  WaitHelper:22 - 180
+2019-10-07 03:23:04 INFO  WaitHelper:27 - 240
+2019-10-07 03:23:04 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2019-10-07 03:23:04 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2019-10-07 03:23:11 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-10-07 03:23:11 INFO  ClearTripFlowTest:36 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-10-07 03:23:13 INFO  ClearTripFlowTest:39 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-10-07 03:23:14 INFO  ClearTripFlowTest:42 - Clicking on datePicker element 
+2019-10-07 03:23:14 INFO  ClearTripFlowTest:45 - Departure date is being calculated and entered--Date is 
+2019-10-07 03:23:14 INFO  HomePage:68 - --------------------Mon Oct 21 03:23:14 IST 2019--------------------
+2019-10-07 03:23:15 INFO  ClearTripFlowTest:48 - Selecting Adult as 1
+2019-10-07 03:23:15 INFO  ClearTripFlowTest:51 - Selecting Child as 1
+2019-10-07 03:23:15 INFO  ClearTripFlowTest:54 - Clicking on search button
+2019-10-07 03:23:15 INFO  ClearTripFlowTest:57 - Page is getting opened with all flight details
+2019-10-07 03:23:15 INFO  ClearTripFlowTest:59 - Waiting for the opening page untile document.ready=complete state
+2019-10-07 03:23:16 INFO  ClearTripFlowTest:62 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-10-07 03:23:26 INFO  ClearTripFlowTest:69 - Cheapest flight price 
+2019-10-07 03:23:26 INFO  ClearTripFlowTest:73 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,650 
+            
+2019-10-07 03:23:26 INFO  ClearTripFlowTest:75 - Preparing locator for clicking the Book button for this flight
+2019-10-07 03:23:26 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.10,650 
+            ')]/../parent::*//button[@type='submit']
+2019-10-07 03:23:36 INFO  ClearTripFlowTest:79 - Clicking continue button
+2019-10-07 03:23:38 INFO  ClearTripFlowTest:83 - Insurance is being accepted
+2019-10-07 03:23:40 INFO  ClearTripFlowTest:87 - Clicking continue button
+2019-10-07 03:23:48 INFO  ClearTripFlowTest:91 - Entering email
+2019-10-07 03:24:01 INFO  ClearTripFlowTest:101 - Entering traveller information
+2019-10-07 03:24:07 INFO  ClearTripFlowTest:107 - Entering child information
+2019-10-07 03:24:08 INFO  ClearTripFlowTest:111 - Entering traveller's phone number
+2019-10-07 03:24:08 INFO  ClearTripFlowTest:115 - Finally proceeding for Payment
+2019-10-07 03:24:17 INFO  ClearTripFlowTest:121 - Finally Verifying Payment Section is appeared or not--True in Appeared Case
+2019-10-07 03:24:17 INFO  ClearTripFlowTest:125 - Quitting the browser now
+2019-12-24 11:41:44 INFO  TestBase:115 - loading config.properties
+2019-12-24 11:43:13 INFO  TestBase:115 - loading config.properties
+2019-12-24 13:29:38 INFO  TestBase:115 - loading config.properties
+2019-12-24 13:31:49 INFO  TestBase:115 - loading config.properties
+2019-12-24 13:31:53 INFO  WaitHelper:22 - 180
+2019-12-24 13:31:53 INFO  WaitHelper:27 - 240
+2019-12-24 13:31:53 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2019-12-24 13:31:53 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2019-12-24 13:31:58 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-12-24 13:31:58 INFO  ClearTripFlowTest:36 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-12-24 13:31:59 INFO  ClearTripFlowTest:39 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-12-24 13:32:00 INFO  ClearTripFlowTest:42 - Clicking on datePicker element 
+2019-12-24 13:32:00 INFO  ClearTripFlowTest:45 - Departure date is being calculated and entered--Date is 
+2019-12-24 13:32:00 INFO  HomePage:68 - --------------------Tue Jan 07 13:32:00 IST 2020--------------------
+2019-12-24 13:32:00 INFO  ClearTripFlowTest:48 - Selecting Adult as 1
+2019-12-24 13:32:00 INFO  ClearTripFlowTest:51 - Selecting Child as 1
+2019-12-24 13:32:00 INFO  ClearTripFlowTest:54 - Clicking on search button
+2019-12-24 13:32:00 INFO  ClearTripFlowTest:57 - Page is getting opened with all flight details
+2019-12-24 13:32:00 INFO  ClearTripFlowTest:59 - Waiting for the opening page untile document.ready=complete state
+2019-12-24 13:32:00 INFO  ClearTripFlowTest:62 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-12-24 13:32:08 INFO  ClearTripFlowTest:69 - Cheapest flight price 
+2019-12-24 13:32:08 INFO  ClearTripFlowTest:73 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.11,136 
+            
+2019-12-24 13:32:08 INFO  ClearTripFlowTest:75 - Preparing locator for clicking the Book button for this flight
+2019-12-24 13:32:08 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.11,136 
+            ')]/../parent::*//button[@type='submit']
+2019-12-24 16:48:30 INFO  TestBase:115 - loading config.properties
+2019-12-24 16:48:42 INFO  WaitHelper:22 - 180
+2019-12-24 16:48:42 INFO  WaitHelper:27 - 240
+2019-12-24 16:48:42 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2019-12-24 16:48:42 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2019-12-24 16:48:46 INFO  ClearTripFlowTest:32 - page is being maximized
+2019-12-24 16:48:46 INFO  ClearTripFlowTest:36 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2019-12-24 16:48:47 INFO  ClearTripFlowTest:39 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2019-12-24 16:48:48 INFO  ClearTripFlowTest:42 - Clicking on datePicker element 
+2019-12-24 16:48:48 INFO  ClearTripFlowTest:45 - Departure date is being calculated and entered--Date is 
+2019-12-24 16:48:48 INFO  HomePage:68 - --------------------Tue Jan 07 16:48:48 IST 2020--------------------
+2019-12-24 16:48:48 INFO  ClearTripFlowTest:48 - Selecting Adult as 1
+2019-12-24 16:48:48 INFO  ClearTripFlowTest:51 - Selecting Child as 1
+2019-12-24 16:48:48 INFO  ClearTripFlowTest:54 - Clicking on search button
+2019-12-24 16:48:48 INFO  ClearTripFlowTest:57 - Page is getting opened with all flight details
+2019-12-24 16:48:48 INFO  ClearTripFlowTest:59 - Waiting for the opening page untile document.ready=complete state
+2019-12-24 16:48:48 INFO  ClearTripFlowTest:62 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2019-12-24 16:49:01 INFO  ClearTripFlowTest:69 - Cheapest flight price 
+2019-12-24 16:49:01 INFO  ClearTripFlowTest:73 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,344 
+            
+2019-12-24 16:49:01 INFO  ClearTripFlowTest:75 - Preparing locator for clicking the Book button for this flight
+2019-12-24 16:49:01 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.10,344 
+            ')]/../parent::*//button[@type='submit']
+2019-12-24 16:49:20 INFO  ClearTripFlowTest:79 - Clicking continue button
+2019-12-24 16:49:20 INFO  ClearTripFlowTest:83 - Insurance is being accepted
+2019-12-24 16:49:21 INFO  ClearTripFlowTest:87 - Clicking continue button
+2019-12-24 16:49:21 INFO  ClearTripFlowTest:91 - Entering email
+2019-12-24 16:49:21 INFO  ClearTripFlowTest:101 - Entering traveller information
+2019-12-24 16:49:27 INFO  ClearTripFlowTest:107 - Entering child information
+2019-12-24 16:49:28 INFO  ClearTripFlowTest:111 - Entering traveller's phone number
+2019-12-24 16:49:28 INFO  ClearTripFlowTest:115 - Finally proceeding for Payment
+2020-01-01 02:48:51 INFO  TestBase:115 - loading config.properties
+2020-01-01 02:49:21 INFO  WaitHelper:22 - 180
+2020-01-01 02:49:21 INFO  WaitHelper:27 - 240
+2020-01-01 02:49:21 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2020-01-01 02:49:21 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2020-01-01 02:49:26 INFO  ClearTripFlowTest:32 - page is being maximized
+2020-01-01 02:49:26 INFO  ClearTripFlowTest:36 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2020-01-01 02:49:28 INFO  ClearTripFlowTest:39 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2020-01-01 02:49:29 INFO  ClearTripFlowTest:42 - Clicking on datePicker element 
+2020-01-01 02:49:29 INFO  ClearTripFlowTest:45 - Departure date is being calculated and entered--Date is 
+2020-01-01 02:49:29 INFO  HomePage:68 - --------------------Wed Jan 15 02:49:29 IST 2020--------------------
+2020-01-01 02:49:29 INFO  ClearTripFlowTest:48 - Selecting Adult as 1
+2020-01-01 02:49:29 INFO  ClearTripFlowTest:51 - Selecting Child as 1
+2020-01-01 02:49:29 INFO  ClearTripFlowTest:54 - Clicking on search button
+2020-01-01 02:49:30 INFO  ClearTripFlowTest:57 - Page is getting opened with all flight details
+2020-01-01 02:49:30 INFO  ClearTripFlowTest:59 - Waiting for the opening page untile document.ready=complete state
+2020-01-01 02:49:30 INFO  ClearTripFlowTest:62 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2020-01-01 02:49:42 INFO  ClearTripFlowTest:69 - Cheapest flight price 
+2020-01-01 02:49:42 INFO  ClearTripFlowTest:73 - Cheapest flight price 
+                
+                
+                
+                
+                       Rs.10,762 
+            
+2020-01-01 02:49:42 INFO  ClearTripFlowTest:75 - Preparing locator for clicking the Book button for this flight
+2020-01-01 02:49:42 INFO  AllFlightsDetailsPage:34 - path is //th[@id='BaggageBundlingTemplate' and contains(.,'
+                
+                
+                
+                
+                       Rs.10,762 
+            ')]/../parent::*//button[@type='submit']
+2020-01-01 02:49:58 INFO  ClearTripFlowTest:79 - Clicking continue button
+2020-01-22 18:09:34 INFO  TestBase:115 - loading config.properties
+2020-01-22 18:09:42 INFO  WaitHelper:22 - 180
+2020-01-22 18:09:42 INFO  WaitHelper:27 - 240
+2020-01-22 18:09:42 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2020-01-22 18:09:42 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2020-01-22 18:09:47 INFO  ClearTripFlowTest:32 - page is being maximized
+2020-01-22 18:09:47 INFO  ClearTripFlowTest:36 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2020-01-27 11:12:12 INFO  TestBase:115 - loading config.properties
+2020-01-27 11:12:23 INFO  WaitHelper:22 - 180
+2020-01-27 11:12:23 INFO  WaitHelper:27 - 240
+2020-01-27 11:12:23 INFO  ClearTripFlowTest:26 - seleniumassignment.ClearTripFlowTestscript is started
+2020-01-27 11:12:23 INFO  ClearTripFlowTest:28 - Configutaion is loaded
+2020-01-27 11:12:33 INFO  ClearTripFlowTest:32 - page is being maximized
+2020-01-27 11:12:33 INFO  ClearTripFlowTest:36 - Entering From City Bangalore, IN - Kempegowda International Airport (BLR)
+2020-01-27 11:12:35 INFO  ClearTripFlowTest:39 - Entering To City New Delhi, IN - Indira Gandhi Airport (DEL)
+2020-01-27 11:12:35 INFO  ClearTripFlowTest:42 - Clicking on datePicker element 
+2020-01-27 11:12:35 INFO  ClearTripFlowTest:45 - Departure date is being calculated and entered--Date is 
+2020-01-27 11:12:35 INFO  HomePage:68 - --------------------Mon Feb 10 11:12:35 IST 2020--------------------
+2020-01-27 11:12:35 INFO  ClearTripFlowTest:48 - Selecting Adult as 1
+2020-01-27 11:12:35 INFO  ClearTripFlowTest:51 - Selecting Child as 1
+2020-01-27 11:12:35 INFO  ClearTripFlowTest:54 - Clicking on search button
+2020-01-27 11:12:35 INFO  ClearTripFlowTest:57 - Page is getting opened with all flight details
+2020-01-27 11:12:35 INFO  ClearTripFlowTest:59 - Waiting for the opening page untile document.ready=complete state
+2020-01-27 11:12:35 INFO  ClearTripFlowTest:62 - Fetching all flight prices and sorting with collections.sort and picking first element from list that would be cheapest flight
+2020-01-28 02:06:21 INFO  LocationVerificationTest:27 - Creating http client instance
+2020-01-28 02:06:21 INFO  LocationVerificationTest:29 - Formation of URI
+2020-01-28 02:06:21 INFO  LocationVerificationTest:33 - URI is https://maps.googleapis.com/maps/api/place/textsearch/json?query=dubai&key=AIzaSyBWnICQGYkk1kCCLxQqwqQ5unr_vf1s6xY
+2020-01-28 02:06:21 INFO  LocationVerificationTest:35 - Instance of HttpGet
+2020-01-28 02:06:21 INFO  LocationVerificationTest:37 - Executing the request
+2020-01-28 02:06:22 INFO  LocationVerificationTest:40 - Verifying status code 200
+2020-01-28 02:06:22 INFO  LocationVerificationTest:45 - response body : {
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Dubai - United Arab Emirates",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.2048493,
+               "lng" : 55.2707828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3585607,
+                  "lng" : 55.5650393
+               },
+               "southwest" : {
+                  "lat" : 24.7921359,
+                  "lng" : 54.89045429999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4517501182432a6539985e4dbd00278179f70a98",
+         "name" : "Dubai",
+         "photos" : [
+            {
+               "height" : 1743,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105303505373661530610\"\u003eHauser Quaid Zzyzx\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArqDxl0YJcGNuEGTqrNOJBeJiLoM8nXQ0Omp_M4jsQW2AtU99Nz3KpuEbhOB9XPL2WCc51RYgZy9NcPuY25k9gc0pz8_5jX4t_eTEo5IxrBIpyWoMORmy1YeMBdho2zaGEhDouI2UbUj-BMwERcCWrp3kGhSGetPP_UrXvq6zj084R8UfC1z9qw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "reference" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+
+2020-01-28 02:21:32 INFO  LocationVerificationTest:31 - Creating http client instance
+2020-01-28 02:21:33 INFO  LocationVerificationTest:33 - Formation of URI
+2020-01-28 02:21:33 INFO  LocationVerificationTest:37 - URI is https://maps.googleapis.com/maps/api/place/textsearch/json?query=dubai&key=AIzaSyBWnICQGYkk1kCCLxQqwqQ5unr_vf1s6xY
+2020-01-28 02:21:33 INFO  LocationVerificationTest:39 - Instance of HttpGet
+2020-01-28 02:21:33 INFO  LocationVerificationTest:41 - Executing the request
+2020-01-28 02:21:34 INFO  LocationVerificationTest:44 - Verifying status code 200
+2020-01-28 02:21:34 INFO  LocationVerificationTest:49 - response body : {
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Dubai - United Arab Emirates",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.2048493,
+               "lng" : 55.2707828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3585607,
+                  "lng" : 55.5650393
+               },
+               "southwest" : {
+                  "lat" : 24.7921359,
+                  "lng" : 54.89045429999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4517501182432a6539985e4dbd00278179f70a98",
+         "name" : "Dubai",
+         "photos" : [
+            {
+               "height" : 1743,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105303505373661530610\"\u003eHauser Quaid Zzyzx\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJOMZxM0KA8yV786jDze1Fmm5K95aPBuxvryUIauls0PFj2ePivkUAin2Fz0UlsCz5WWwFtlE4-1e5V02RqiUKQtXUfMEmIla-9vjjxM-9VVmNul7QJybZJ3bjbbD52tVEhAQvdTCnUvpROj6qAD0j7p1GhR9SWnLFkELNJVopunmbgZi1gplYA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "reference" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+
+2020-01-28 02:21:34 INFO  LocationVerificationTest:50 - Verifying entered location belongs to Dubai with lattitude and longitude basis
+2020-01-28 02:21:34 INFO  LocationVerificationTest:51 - Parsing Json response in java pojo
+2020-01-28 02:24:28 INFO  LocationVerificationTest:31 - Creating http client instance
+2020-01-28 02:24:28 INFO  LocationVerificationTest:33 - Formation of URI
+2020-01-28 02:24:28 INFO  LocationVerificationTest:37 - URI is https://maps.googleapis.com/maps/api/place/textsearch/json?query=dubai&key=AIzaSyBWnICQGYkk1kCCLxQqwqQ5unr_vf1s6xY
+2020-01-28 02:24:28 INFO  LocationVerificationTest:39 - Instance of HttpGet
+2020-01-28 02:24:28 INFO  LocationVerificationTest:41 - Executing the request
+2020-01-28 02:24:29 INFO  LocationVerificationTest:44 - Verifying status code 200
+2020-01-28 02:24:29 INFO  LocationVerificationTest:49 - response body : {
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Dubai - United Arab Emirates",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.2048493,
+               "lng" : 55.2707828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3585607,
+                  "lng" : 55.5650393
+               },
+               "southwest" : {
+                  "lat" : 24.7921359,
+                  "lng" : 54.89045429999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4517501182432a6539985e4dbd00278179f70a98",
+         "name" : "Dubai",
+         "photos" : [
+            {
+               "height" : 1743,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105303505373661530610\"\u003eHauser Quaid Zzyzx\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYCJMuCd9t_3qIeniDsGvdBPcRAFEC57ZP3G9M243RPu1bXcfzKKiic9fLyppDEJ6uNz34StWd6nGWa9b9pi4OlitV6G8BQ8HF24WO4RT2nLZvRktMDejFxnXo1p7cXNpEhBlbG7FNN69WnFs3dUZ2G0CGhS7CLMbSCSLpno0fQ64jZ3MnMDLLw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "reference" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+
+2020-01-28 02:24:29 INFO  LocationVerificationTest:50 - Verifying entered location belongs to Dubai with lattitude and longitude basis
+2020-01-28 02:24:29 INFO  LocationVerificationTest:51 - Parsing Json response in java pojo
+2020-01-28 02:29:20 INFO  LocationVerificationTest:32 - Creating http client instance
+2020-01-28 02:29:20 INFO  LocationVerificationTest:34 - Formation of URI
+2020-01-28 02:29:20 INFO  LocationVerificationTest:38 - URI is maps.googleapis.com://maps.googleapis.com/maps/api/place/textsearch/json?query=dubai&key=AIzaSyBWnICQGYkk1kCCLxQqwqQ5unr_vf1s6xY
+2020-01-28 02:29:20 INFO  LocationVerificationTest:40 - Instance of HttpGet
+2020-01-28 02:29:20 INFO  LocationVerificationTest:42 - Executing the request
+2020-01-28 02:30:24 INFO  LocationVerificationTest:32 - Creating http client instance
+2020-01-28 02:30:24 INFO  LocationVerificationTest:34 - Formation of URI
+2020-01-28 02:30:24 INFO  LocationVerificationTest:38 - URI is https://maps.googleapis.com/maps/api/place/textsearch/json?query=dubai&key=AIzaSyBWnICQGYkk1kCCLxQqwqQ5unr_vf1s6xY
+2020-01-28 02:30:24 INFO  LocationVerificationTest:40 - Instance of HttpGet
+2020-01-28 02:30:24 INFO  LocationVerificationTest:42 - Executing the request
+2020-01-28 02:30:26 INFO  LocationVerificationTest:45 - Verifying status code 200
+2020-01-28 02:30:26 INFO  LocationVerificationTest:50 - response body : {
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Dubai - United Arab Emirates",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.2048493,
+               "lng" : 55.2707828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3585607,
+                  "lng" : 55.5650393
+               },
+               "southwest" : {
+                  "lat" : 24.7921359,
+                  "lng" : 54.89045429999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4517501182432a6539985e4dbd00278179f70a98",
+         "name" : "Dubai",
+         "photos" : [
+            {
+               "height" : 1743,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105303505373661530610\"\u003eHauser Quaid Zzyzx\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsYkcgfMWgQZcH1Rjm5WptQdWBSjqCAviBYB7zthIdCzl3oGiamHXPKtUYGI9o6D_IRxf8l0N81tUJQIy9QFDtZIQ8y06xtiqMnN4uIlIarFkwC2DkfsbzJtGuit8FFcvEhAN9-hPoMX59FEkrN11y3JCGhQnOJlp-9DSAd-UzbEBIfJfX9aUhA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "reference" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+
+2020-01-28 02:30:26 INFO  LocationVerificationTest:51 - Verifying entered location belongs to Dubai with lattitude and longitude basis
+2020-01-28 02:30:26 INFO  LocationVerificationTest:52 - Parsing Json response in java pojo
+2020-01-28 11:20:03 INFO  TestBase:40 - log is initialized
+2020-01-28 11:22:38 INFO  TestBase:40 - log is initialized
+2020-01-28 11:24:35 INFO  TestBase:41 - log is initialized
+2020-01-28 11:25:59 INFO  TestBase:41 - log is initialized
+2020-01-28 11:27:37 INFO  TestBase:41 - log is initialized
+2020-01-28 11:27:41 INFO  SearchLeastExpensiveHotelTest:24 - Configutaion is loaded
+2020-01-28 11:33:18 INFO  TestBase:41 - log is initialized
+2020-01-28 11:33:21 INFO  SearchLeastExpensiveHotelTest:24 - Configutaion is loaded
+2020-01-28 11:33:21 INFO  SearchLeastExpensiveHotelTest:25 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 11:33:24 INFO  SearchLeastExpensiveHotelTest:28 - Selecting Property Type: Rent
+2020-01-28 11:33:24 INFO  SearchLeastExpensiveHotelTest:32 - Selecting Min BedRooms: 2
+2020-01-28 11:33:25 INFO  SearchLeastExpensiveHotelTest:39 - Seraching property for rent with min 2 bedrooms
+2020-01-28 11:33:27 INFO  SearchLeastExpensiveHotelTest:43 - Results are fetching out
+2020-01-28 11:42:31 INFO  TestBase:41 - log is initialized
+2020-01-28 11:42:35 INFO  SearchLeastExpensiveHotelTest:24 - Configutaion is loaded
+2020-01-28 11:42:35 INFO  SearchLeastExpensiveHotelTest:25 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 11:42:38 INFO  SearchLeastExpensiveHotelTest:28 - Selecting Property Type: Rent
+2020-01-28 11:42:38 INFO  SearchLeastExpensiveHotelTest:32 - Selecting Min BedRooms: 2
+2020-01-28 11:42:39 INFO  SearchLeastExpensiveHotelTest:39 - Seraching property for rent with min 2 bedrooms
+2020-01-28 11:42:41 INFO  SearchLeastExpensiveHotelTest:45 - Results are fetching out
+2020-01-28 11:55:53 INFO  TestBase:41 - log is initialized
+2020-01-28 11:55:57 INFO  SearchLeastExpensivePropertyTest:23 - Configutaion is loaded
+2020-01-28 11:55:57 INFO  SearchLeastExpensivePropertyTest:24 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 11:56:04 INFO  SearchLeastExpensivePropertyTest:27 - Selecting Property Type: Rent
+2020-01-28 11:56:04 INFO  SearchLeastExpensivePropertyTest:31 - Selecting Min BedRooms: 2
+2020-01-28 11:56:04 INFO  SearchLeastExpensivePropertyTest:38 - Seraching property for rent with min 2 bedrooms
+2020-01-28 11:56:06 INFO  SearchLeastExpensivePropertyTest:44 - Results are fetching out
+2020-01-28 11:56:08 INFO  SearchLeastExpensivePropertyTest:74 - Price of  Least Expensive property for rent with min 2 Bed Rooms 76900
+2020-01-28 11:56:08 INFO  SearchLeastExpensivePropertyTest:80 - Proprty founds 1
+2020-01-28 11:58:22 INFO  TestBase:41 - log is initialized
+2020-01-28 11:58:26 INFO  SearchLeastExpensivePropertyTest:23 - Configutaion is loaded
+2020-01-28 11:58:26 INFO  SearchLeastExpensivePropertyTest:24 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 11:58:29 INFO  SearchLeastExpensivePropertyTest:27 - Selecting Property Type: Rent
+2020-01-28 11:58:30 INFO  SearchLeastExpensivePropertyTest:31 - Selecting Min BedRooms: 2
+2020-01-28 11:58:30 INFO  SearchLeastExpensivePropertyTest:38 - Seraching property for rent with min 2 bedrooms
+2020-01-28 11:58:33 INFO  SearchLeastExpensivePropertyTest:44 - Results are fetching out
+2020-01-28 11:58:34 INFO  SearchLeastExpensivePropertyTest:75 - Price of  Least Expensive property for rent with min 2 Bed Rooms is76900
+2020-01-28 11:58:34 INFO  SearchLeastExpensivePropertyTest:81 - Number of Proprty founds at this price 1
+2020-01-28 12:30:32 INFO  TestBase:41 - log is initialized
+2020-01-28 12:30:36 INFO  SearchLeastExpensivePropertyTest:24 - Configutaion is loaded
+2020-01-28 12:30:36 INFO  SearchLeastExpensivePropertyTest:25 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 12:30:42 INFO  SearchLeastExpensivePropertyTest:28 - Selecting Property Type: Rent
+2020-01-28 12:30:42 INFO  SearchLeastExpensivePropertyTest:32 - Selecting Min BedRooms: 2
+2020-01-28 12:30:42 INFO  SearchLeastExpensivePropertyTest:39 - Seraching property for rent with min 2 bedrooms
+2020-01-28 12:30:46 INFO  SearchLeastExpensivePropertyTest:45 - Results are fetching out
+2020-01-28 12:30:46 INFO  SearchLeastExpensivePropertyTest:76 - Price of  Least Expensive property for rent with min 2 Bed Rooms is 76900
+2020-01-28 12:30:46 INFO  SearchLeastExpensivePropertyTest:82 - Number of Proprty founds at this price 1
+2020-01-28 12:33:33 INFO  TestBase:41 - log is initialized
+2020-01-28 12:33:36 INFO  SearchLeastExpensivePropertyTest:24 - Configutaion is loaded
+2020-01-28 12:33:36 INFO  SearchLeastExpensivePropertyTest:25 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 12:33:42 INFO  SearchLeastExpensivePropertyTest:28 - Selecting Property Type: Rent
+2020-01-28 12:33:42 INFO  SearchLeastExpensivePropertyTest:32 - Selecting Min BedRooms: 2
+2020-01-28 12:33:42 INFO  SearchLeastExpensivePropertyTest:39 - Seraching property for rent with min 2 bedrooms
+2020-01-28 12:33:46 INFO  SearchLeastExpensivePropertyTest:45 - Results are fetching out
+2020-01-28 12:33:47 INFO  SearchLeastExpensivePropertyTest:76 - Price of  Least Expensive property for rent with min 2 Bed Rooms is 100000
+2020-01-28 12:33:47 INFO  SearchLeastExpensivePropertyTest:82 - Number of Property founds at  price 100000 is 1
+2020-01-28 12:42:24 INFO  TestBase:41 - log is initialized
+2020-01-28 12:42:28 INFO  SearchLeastExpensivePropertyTest:25 - Configutaion is loaded
+2020-01-28 12:42:28 INFO  SearchLeastExpensivePropertyTest:26 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 12:42:35 INFO  SearchLeastExpensivePropertyTest:29 - Selecting Property Type: Rent
+2020-01-28 12:42:35 INFO  SearchLeastExpensivePropertyTest:33 - Selecting Min BedRooms: 2
+2020-01-28 12:42:35 INFO  SearchLeastExpensivePropertyTest:40 - Seraching property inDubai marinafor rent with min 2 bedrooms
+2020-01-28 12:42:37 INFO  SearchLeastExpensivePropertyTest:46 - Results are fetching out
+2020-01-28 12:42:39 INFO  SearchLeastExpensivePropertyTest:77 - Price of  Least Expensive property for rent with min 2 Bed Rooms is 76900
+2020-01-28 12:42:39 INFO  SearchLeastExpensivePropertyTest:83 - Number of Property founds at  price 76900 is 1
+2020-01-28 12:44:28 INFO  TestBase:41 - log is initialized
+2020-01-28 12:44:32 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 12:44:32 INFO  SearchLeastExpensivePropertyTest:25 - Configutaion is loaded
+2020-01-28 12:44:32 INFO  SearchLeastExpensivePropertyTest:26 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 12:44:38 INFO  SearchLeastExpensivePropertyTest:29 - Selecting Property Type: Rent
+2020-01-28 12:44:38 INFO  SearchLeastExpensivePropertyTest:33 - Selecting Min BedRooms: 2
+2020-01-28 12:44:38 INFO  SearchLeastExpensivePropertyTest:40 - Seraching property inDubai marinafor rent with min 2 bedrooms
+2020-01-28 12:44:41 INFO  SearchLeastExpensivePropertyTest:46 - Results are fetching out
+2020-01-28 12:44:42 INFO  SearchLeastExpensivePropertyTest:77 - Price of  Least Expensive property for rent with min 2 Bed Rooms is 76900
+2020-01-28 12:44:42 INFO  SearchLeastExpensivePropertyTest:83 - Number of Property founds at  price 76900 is 1
+2020-01-28 12:47:26 INFO  TestBase:41 - log is initialized
+2020-01-28 12:47:29 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 12:47:30 INFO  SearchLeastExpensivePropertyTest:25 - Configutaion is loaded
+2020-01-28 12:47:30 INFO  SearchLeastExpensivePropertyTest:26 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 12:47:33 INFO  SearchLeastExpensivePropertyTest:29 - Selecting Property Type: Rent
+2020-01-28 12:47:34 INFO  SearchLeastExpensivePropertyTest:33 - Selecting Min BedRooms: 2
+2020-01-28 12:47:34 INFO  SearchLeastExpensivePropertyTest:40 - Seraching property inDubai marinafor rent with min 2 bedrooms
+2020-01-28 12:47:36 INFO  SearchLeastExpensivePropertyTest:46 - Results are fetching out
+2020-01-28 12:47:38 INFO  SearchLeastExpensivePropertyTest:77 - Price of  Least Expensive property for rent with min 2 Bed Rooms is 76900
+2020-01-28 12:47:38 INFO  SearchLeastExpensivePropertyTest:82 - 1 Radiant 2-BR Apartment With Marina Views
+2020-01-28 12:47:38 INFO  SearchLeastExpensivePropertyTest:86 - Number of Property founds at  price 76900 is 1
+2020-01-28 12:47:38 INFO  SearchLeastExpensivePropertyTest:90 - 1 Radiant 2-BR Apartment With Marina Views
+2020-01-28 12:50:18 INFO  TestBase:41 - log is initialized
+2020-01-28 12:50:21 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 12:50:21 INFO  SearchLeastExpensivePropertyTest:25 - Configutaion is loaded
+2020-01-28 12:50:21 INFO  SearchLeastExpensivePropertyTest:26 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 12:50:25 INFO  SearchLeastExpensivePropertyTest:29 - Selecting Property Type: Rent
+2020-01-28 12:50:25 INFO  SearchLeastExpensivePropertyTest:33 - Selecting Min BedRooms: 3
+2020-01-28 12:50:26 INFO  SearchLeastExpensivePropertyTest:41 - Seraching property inDubai marinafor rent with min 2 bedrooms
+2020-01-28 12:50:29 INFO  SearchLeastExpensivePropertyTest:47 - Results are fetching out
+2020-01-28 12:50:30 INFO  SearchLeastExpensivePropertyTest:78 - Price of  Least Expensive property for rent with min 2 Bed Rooms is 60000
+2020-01-28 12:50:30 INFO  SearchLeastExpensivePropertyTest:83 - 1 Spacious|Huge And Bright| 1BR| Mag 218@60K
+2020-01-28 12:50:30 INFO  SearchLeastExpensivePropertyTest:87 - Number of Property founds at  price 60000 is 1
+2020-01-28 12:50:30 INFO  SearchLeastExpensivePropertyTest:89 - property description or title are :
+2020-01-28 12:50:30 INFO  SearchLeastExpensivePropertyTest:91 - 1 Spacious|Huge And Bright| 1BR| Mag 218@60K
+2020-01-28 12:51:17 INFO  TestBase:41 - log is initialized
+2020-01-28 12:51:20 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 12:51:20 INFO  SearchLeastExpensivePropertyTest:25 - Configutaion is loaded
+2020-01-28 12:51:20 INFO  SearchLeastExpensivePropertyTest:26 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 12:51:24 INFO  SearchLeastExpensivePropertyTest:29 - Selecting Property Type: Rent
+2020-01-28 12:51:24 INFO  SearchLeastExpensivePropertyTest:33 - Selecting Min BedRooms: 3
+2020-01-28 12:52:34 INFO  TestBase:41 - log is initialized
+2020-01-28 12:52:38 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 12:52:38 INFO  SearchLeastExpensivePropertyTest:25 - Configutaion is loaded
+2020-01-28 12:52:38 INFO  SearchLeastExpensivePropertyTest:26 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 12:52:44 INFO  SearchLeastExpensivePropertyTest:29 - Selecting Property Type: Rent
+2020-01-28 12:52:44 INFO  SearchLeastExpensivePropertyTest:33 - Selecting Min BedRooms: 3
+2020-01-28 12:52:44 INFO  SearchLeastExpensivePropertyTest:41 - Seraching property inDubai marinafor rent with min 2 bedrooms
+2020-01-28 12:52:50 INFO  SearchLeastExpensivePropertyTest:47 - Results are fetching out
+2020-01-28 12:52:50 INFO  SearchLeastExpensivePropertyTest:78 - Price of  Least Expensive property for rent with min 2 Bed Rooms is 100000
+2020-01-28 12:52:50 INFO  SearchLeastExpensivePropertyTest:83 - 1 3 Bedroom Apartment I Marina View I Marina Wharf 2
+2020-01-28 12:52:50 INFO  SearchLeastExpensivePropertyTest:87 - Number of Property founds at  price 100000 is 1
+2020-01-28 12:52:50 INFO  SearchLeastExpensivePropertyTest:89 - property description or title are :
+2020-01-28 12:52:51 INFO  SearchLeastExpensivePropertyTest:91 - 1 3 Bedroom Apartment I Marina View I Marina Wharf 2
+2020-01-28 12:55:36 INFO  TestBase:41 - log is initialized
+2020-01-28 12:55:39 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 12:55:39 INFO  SearchLeastExpensivePropertyTest:25 - Configutaion is loaded
+2020-01-28 12:55:39 INFO  SearchLeastExpensivePropertyTest:26 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 12:55:42 INFO  SearchLeastExpensivePropertyTest:29 - Selecting Property Type: Rent
+2020-01-28 12:55:42 INFO  SearchLeastExpensivePropertyTest:33 - Selecting Min BedRooms: 3
+2020-01-28 12:55:42 INFO  SearchLeastExpensivePropertyTest:41 - Seraching property inDubai marinafor rent with min 2 bedrooms
+2020-01-28 12:55:44 INFO  SearchLeastExpensivePropertyTest:47 - Results are fetching out
+2020-01-28 12:55:46 INFO  SearchLeastExpensivePropertyTest:79 - Price of  Least Expensive property for rent with min 2 Bed Rooms is 100000
+2020-01-28 12:55:46 INFO  SearchLeastExpensivePropertyTest:86 - 1 3 Bedroom Apartment I Marina View I Marina Wharf 2
+2020-01-28 12:55:46 INFO  SearchLeastExpensivePropertyTest:91 - Number of Property founds at  price 100000 is 1
+2020-01-28 12:55:46 INFO  SearchLeastExpensivePropertyTest:93 - property description or title are :
+2020-01-28 12:55:46 INFO  SearchLeastExpensivePropertyTest:96 - 1 3 Bedroom Apartment I Marina View I Marina Wharf 2
+2020-01-28 12:57:33 INFO  TestBase:41 - log is initialized
+2020-01-28 12:57:36 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 12:57:36 INFO  SearchLeastExpensivePropertyTest:25 - Configutaion is loaded
+2020-01-28 12:57:36 INFO  SearchLeastExpensivePropertyTest:26 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 12:57:43 INFO  SearchLeastExpensivePropertyTest:29 - Selecting Property Type: Rent
+2020-01-28 12:57:43 INFO  SearchLeastExpensivePropertyTest:33 - Selecting Min BedRooms: 3
+2020-01-28 12:57:43 INFO  SearchLeastExpensivePropertyTest:41 - Seraching property inDubai marinafor rent with min 2 bedrooms
+2020-01-28 12:57:50 INFO  SearchLeastExpensivePropertyTest:47 - Results are fetching out
+2020-01-28 13:01:17 INFO  TestBase:41 - log is initialized
+2020-01-28 13:01:20 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 13:01:20 INFO  SearchLeastExpensivePropertyTest:26 - Configutaion is loaded
+2020-01-28 13:01:20 INFO  SearchLeastExpensivePropertyTest:27 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 13:01:27 INFO  SearchLeastExpensivePropertyTest:30 - Selecting Property Type: Rent
+2020-01-28 13:01:27 INFO  SearchLeastExpensivePropertyTest:36 - Selecting Min BedRooms: 3
+2020-01-28 13:01:27 INFO  SearchLeastExpensivePropertyTest:44 - Seraching property inDubai marinafor rent with min 2 bedrooms
+2020-01-28 13:01:29 INFO  SearchLeastExpensivePropertyTest:50 - Results are fetching out
+2020-01-28 13:01:31 INFO  SearchLeastExpensivePropertyTest:82 - Price of  Least Expensive property for rent with min 2 Bed Rooms is 100000
+2020-01-28 13:01:31 INFO  SearchLeastExpensivePropertyTest:89 - 1 3 Bedroom Apartment I Marina View I Marina Wharf 2
+2020-01-28 13:01:31 INFO  SearchLeastExpensivePropertyTest:94 - Number of Property founds at  price 100000 is 1
+2020-01-28 13:01:31 INFO  SearchLeastExpensivePropertyTest:96 - property description or title are :
+2020-01-28 13:01:31 INFO  SearchLeastExpensivePropertyTest:99 - 1 3 Bedroom Apartment I Marina View I Marina Wharf 2
+2020-01-28 13:01:44 INFO  TestBase:41 - log is initialized
+2020-01-28 13:01:47 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 13:01:47 INFO  SearchLeastExpensivePropertyTest:26 - Configutaion is loaded
+2020-01-28 13:01:47 INFO  SearchLeastExpensivePropertyTest:27 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 13:01:51 INFO  SearchLeastExpensivePropertyTest:30 - Selecting Property Type: Rent
+2020-01-28 13:01:52 INFO  SearchLeastExpensivePropertyTest:36 - Selecting Min BedRooms: 3
+2020-01-28 13:01:52 INFO  SearchLeastExpensivePropertyTest:44 - Seraching property inDubai marinafor rent with min 2 bedrooms
+2020-01-28 13:01:57 INFO  SearchLeastExpensivePropertyTest:50 - Results are fetching out
+2020-01-28 13:56:15 INFO  TestBase:41 - log is initialized
+2020-01-28 13:56:19 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 13:56:19 INFO  SearchLeastExpensivePropertyTest:26 - Configutaion is loaded
+2020-01-28 13:56:19 INFO  SearchLeastExpensivePropertyTest:27 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 13:56:26 INFO  SearchLeastExpensivePropertyTest:30 - Selecting Property Type:Buy
+2020-01-28 13:56:26 INFO  SearchLeastExpensivePropertyTest:36 - Selecting Min BedRooms: 3
+2020-01-28 13:56:26 INFO  SearchLeastExpensivePropertyTest:44 - Seraching property inDubai marinafor rent with min 2 bedrooms
+2020-01-28 13:56:32 INFO  SearchLeastExpensivePropertyTest:50 - Results are fetching out
+2020-01-28 13:56:59 INFO  TestBase:41 - log is initialized
+2020-01-28 13:57:02 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 13:57:02 INFO  SearchLeastExpensivePropertyTest:26 - Configutaion is loaded
+2020-01-28 13:57:02 INFO  SearchLeastExpensivePropertyTest:27 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 13:57:08 INFO  SearchLeastExpensivePropertyTest:30 - Selecting Property Type:Rent
+2020-01-28 13:57:08 INFO  SearchLeastExpensivePropertyTest:36 - Selecting Min BedRooms: 2
+2020-01-28 13:57:08 INFO  SearchLeastExpensivePropertyTest:44 - Seraching property inDubai marinafor rent with min 2 bedrooms
+2020-01-28 13:57:11 INFO  SearchLeastExpensivePropertyTest:50 - Results are fetching out
+2020-01-28 13:57:12 INFO  SearchLeastExpensivePropertyTest:82 - Price of  Least Expensive property for rent with min 2 Bed Rooms is 76900
+2020-01-28 13:57:12 INFO  SearchLeastExpensivePropertyTest:89 - 1 Radiant 2-BR Apartment With Marina Views
+2020-01-28 13:57:12 INFO  SearchLeastExpensivePropertyTest:94 - Number of Property founds at  price 76900 is 1
+2020-01-28 13:57:12 INFO  SearchLeastExpensivePropertyTest:96 - property description or title are :
+2020-01-28 13:57:12 INFO  SearchLeastExpensivePropertyTest:99 - 1 Radiant 2-BR Apartment With Marina Views
+2020-01-28 13:58:34 INFO  TestBase:41 - log is initialized
+2020-01-28 13:58:38 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 13:58:38 INFO  LocationVerificationTest:32 - Creating http client instance
+2020-01-28 13:58:38 INFO  LocationVerificationTest:34 - Formation of URI
+2020-01-28 13:58:38 INFO  LocationVerificationTest:38 - URI is https://maps.googleapis.com/maps/api/place/textsearch/json?query=dubai&key=AIzaSyBWnICQGYkk1kCCLxQqwqQ5unr_vf1s6xY
+2020-01-28 13:58:38 INFO  LocationVerificationTest:40 - Instance of HttpGet
+2020-01-28 13:58:38 INFO  LocationVerificationTest:42 - Executing the request
+2020-01-28 13:58:40 INFO  LocationVerificationTest:45 - Verifying status code 200
+2020-01-28 13:58:40 INFO  LocationVerificationTest:50 - response body : {
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Dubai - United Arab Emirates",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.2048493,
+               "lng" : 55.2707828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3585607,
+                  "lng" : 55.5650393
+               },
+               "southwest" : {
+                  "lat" : 24.7921359,
+                  "lng" : 54.89045429999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4517501182432a6539985e4dbd00278179f70a98",
+         "name" : "Dubai",
+         "photos" : [
+            {
+               "height" : 1743,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105303505373661530610\"\u003eHauser Quaid Zzyzx\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFlLuuoFJGax8vEjAL4IAz1Jryino0pi9yQHa5iVBfRk2V-k7km_JpHxfQwrDkk88kkr1dDb0sAWG8dOoiwzrLWUism350M7r_KpmgPhwGjUR-FwE9Nf-G74d5jWEZoCdEhCO5pjpv3O6RUZhcwEBgxXFGhRlu-dgPzXLN2c1xt8UFkZ2tETTKw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "reference" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+
+2020-01-28 13:58:40 INFO  LocationVerificationTest:51 - Verifying entered location belongs to Dubai with lattitude and longitude basis
+2020-01-28 13:58:40 INFO  LocationVerificationTest:52 - Parsing Json response in java pojo
+2020-01-28 15:52:28 INFO  TestBase:41 - log is initialized
+2020-01-28 15:52:32 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 15:52:32 INFO  LocationVerificationTest:32 - Creating http client instance
+2020-01-28 15:52:32 INFO  LocationVerificationTest:34 - Formation of URI
+2020-01-28 15:52:32 INFO  LocationVerificationTest:38 - URI is https://maps.googleapis.com/maps/api/place/textsearch/json?query=dubai&key=AIzaSyBWnICQGYkk1kCCLxQqwqQ5unr_vf1s6xY
+2020-01-28 15:52:32 INFO  LocationVerificationTest:40 - Instance of HttpGet
+2020-01-28 15:52:32 INFO  LocationVerificationTest:42 - Executing the request
+2020-01-28 15:52:33 INFO  LocationVerificationTest:45 - Verifying status code 200
+2020-01-28 15:52:33 INFO  LocationVerificationTest:50 - response body : {
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Dubai - United Arab Emirates",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.2048493,
+               "lng" : 55.2707828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3585607,
+                  "lng" : 55.5650393
+               },
+               "southwest" : {
+                  "lat" : 24.7921359,
+                  "lng" : 54.89045429999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4517501182432a6539985e4dbd00278179f70a98",
+         "name" : "Dubai",
+         "photos" : [
+            {
+               "height" : 1743,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105303505373661530610\"\u003eHauser Quaid Zzyzx\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASjlq1nCWjMUi-R1eN7cDr6gqVuXvwyQz_PJCDVkeGh9TCFd7p7K2DzWMp-RcbqUE_q9z2mu-necJLMQ4BbXUPLGJGMBMe0w714znwr6kpeplR-pknNdT61T8slcfO4gQEhBdL4hTyj0wpnIG1ArFRgwtGhS_RbvNnvfy7L99qC1vVXx-MJvdDg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "reference" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+
+2020-01-28 15:52:33 INFO  LocationVerificationTest:51 - Verifying entered location belongs to Dubai with lattitude and longitude basis
+2020-01-28 15:52:33 INFO  LocationVerificationTest:52 - Parsing Json response in java pojo
+2020-01-28 17:42:00 INFO  TestBase:41 - log is initialized
+2020-01-28 17:42:04 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 17:42:04 INFO  LocationVerificationTest:32 - Creating http client instance
+2020-01-28 17:42:04 INFO  LocationVerificationTest:34 - Formation of URI
+2020-01-28 17:42:04 INFO  LocationVerificationTest:38 - URI is https://maps.googleapis.com/maps/api/place/textsearch/json?query=dubai&key=AIzaSyBWnICQGYkk1kCCLxQqwqQ5unr_vf1s6xY
+2020-01-28 17:42:04 INFO  LocationVerificationTest:40 - Instance of HttpGet
+2020-01-28 17:42:04 INFO  LocationVerificationTest:42 - Executing the request
+2020-01-28 17:42:06 INFO  LocationVerificationTest:45 - Verifying status code 200
+2020-01-28 17:42:06 INFO  LocationVerificationTest:50 - response body : {
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Dubai - United Arab Emirates",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.2048493,
+               "lng" : 55.2707828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3585607,
+                  "lng" : 55.5650393
+               },
+               "southwest" : {
+                  "lat" : 24.7921359,
+                  "lng" : 54.89045429999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4517501182432a6539985e4dbd00278179f70a98",
+         "name" : "Dubai",
+         "photos" : [
+            {
+               "height" : 1743,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105303505373661530610\"\u003eHauser Quaid Zzyzx\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZSH-H29391oRhH-44rapEdQ9xXbfqrlIYzIds0929D5XOdPJDdIj1mUj8jkGBNT2qrnIFFKXuUloCvQzTH-XcWdhntgdYclOLLplCr0l2_XfgCTPcPvZHL-pPmYzKP4zEhAVo7zjJNcGFc8LKOW8VM9cGhRs1abzM-2lGvcEXe5AJT4LbvDB4w",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "reference" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+
+2020-01-28 17:42:06 INFO  LocationVerificationTest:51 - Verifying entered location belongs to Dubai with lattitude and longitude basis
+2020-01-28 17:42:06 INFO  LocationVerificationTest:52 - Parsing Json response in java pojo
+2020-01-28 17:43:58 INFO  TestBase:41 - log is initialized
+2020-01-28 17:44:02 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 17:44:02 INFO  LocationVerificationTest:32 - Creating http client instance
+2020-01-28 17:44:02 INFO  LocationVerificationTest:34 - Formation of URI
+2020-01-28 17:44:02 INFO  LocationVerificationTest:38 - URI is https://maps.googleapis.com/maps/api/place/textsearch/json?query=dubai&key=AIzaSyBWnICQGYkk1kCCLxQqwqQ5unr_vf1s6xY
+2020-01-28 17:44:02 INFO  LocationVerificationTest:40 - Instance of HttpGet
+2020-01-28 17:44:02 INFO  LocationVerificationTest:42 - Executing the request
+2020-01-28 17:44:03 INFO  LocationVerificationTest:45 - Verifying status code 200
+2020-01-28 17:44:03 INFO  LocationVerificationTest:50 - response body : {
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Dubai - United Arab Emirates",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.2048493,
+               "lng" : 55.2707828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3585607,
+                  "lng" : 55.5650393
+               },
+               "southwest" : {
+                  "lat" : 24.7921359,
+                  "lng" : 54.89045429999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4517501182432a6539985e4dbd00278179f70a98",
+         "name" : "Dubai",
+         "photos" : [
+            {
+               "height" : 1743,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105303505373661530610\"\u003eHauser Quaid Zzyzx\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAc6PU0aqzu4B7WDUF1T1GObhcII6KPcUdfMsPPEOA2UfRezAnG6xB-bZ64mXyzAuAfnMhEPF4F1ZSFC-n7DJp-0nXya6CQj8VMF7HtccLC78OMSkMscX5Uwarax3ZVYkDEhDu9IL09MlvFSc9_4w27Q0SGhS35HLhirdik3C-PZsM3CJbWJp8TQ",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "reference" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+
+2020-01-28 17:44:03 INFO  LocationVerificationTest:51 - Verifying entered location belongs to Dubai with lattitude and longitude basis
+2020-01-28 17:44:03 INFO  LocationVerificationTest:52 - Parsing Json response in java pojo
+2020-01-28 17:44:04 INFO  SearchLeastExpensivePropertyTest:26 - Configutaion is loaded
+2020-01-28 17:44:04 INFO  SearchLeastExpensivePropertyTest:27 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 17:44:46 INFO  TestBase:41 - log is initialized
+2020-01-28 17:44:50 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 17:44:50 INFO  LocationVerificationTest:32 - Creating http client instance
+2020-01-28 17:44:50 INFO  LocationVerificationTest:34 - Formation of URI
+2020-01-28 17:44:50 INFO  LocationVerificationTest:38 - URI is https://maps.googleapis.com/maps/api/place/textsearch/json?query=dubai&key=AIzaSyBWnICQGYkk1kCCLxQqwqQ5unr_vf1s6xY
+2020-01-28 17:44:50 INFO  LocationVerificationTest:40 - Instance of HttpGet
+2020-01-28 17:44:50 INFO  LocationVerificationTest:42 - Executing the request
+2020-01-28 17:44:50 INFO  LocationVerificationTest:45 - Verifying status code 200
+2020-01-28 17:44:50 INFO  LocationVerificationTest:50 - response body : {
+   "error_message" : "You have exceeded your daily request quota for this API. If you did not set a custom daily request quota, verify your project has an active billing account: http://g.co/dev/maps-no-account",
+   "html_attributions" : [],
+   "results" : [],
+   "status" : "OVER_QUERY_LIMIT"
+}
+
+2020-01-28 17:44:50 INFO  LocationVerificationTest:51 - Verifying entered location belongs to Dubai with lattitude and longitude basis
+2020-01-28 17:44:50 INFO  LocationVerificationTest:52 - Parsing Json response in java pojo
+2020-01-28 17:44:51 INFO  SearchLeastExpensivePropertyTest:26 - Configutaion is loaded
+2020-01-28 17:44:51 INFO  SearchLeastExpensivePropertyTest:27 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 17:49:34 INFO  TestBase:41 - log is initialized
+2020-01-28 17:49:37 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 17:49:37 INFO  LocationVerificationTest:32 - Creating http client instance
+2020-01-28 17:49:37 INFO  LocationVerificationTest:34 - Formation of URI
+2020-01-28 17:49:37 INFO  LocationVerificationTest:38 - URI is https://maps.googleapis.com/maps/api/place/textsearch/json?query=dubai&key=AIzaSyBWnICQGYkk1kCCLxQqwqQ5unr_vf1s6xY
+2020-01-28 17:49:37 INFO  LocationVerificationTest:40 - Instance of HttpGet
+2020-01-28 17:49:37 INFO  LocationVerificationTest:42 - Executing the request
+2020-01-28 17:49:38 INFO  LocationVerificationTest:45 - Verifying status code 200
+2020-01-28 17:49:38 INFO  LocationVerificationTest:50 - response body : {
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Dubai - United Arab Emirates",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.2048493,
+               "lng" : 55.2707828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3585607,
+                  "lng" : 55.5650393
+               },
+               "southwest" : {
+                  "lat" : 24.7921359,
+                  "lng" : 54.89045429999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4517501182432a6539985e4dbd00278179f70a98",
+         "name" : "Dubai",
+         "photos" : [
+            {
+               "height" : 1743,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105303505373661530610\"\u003eHauser Quaid Zzyzx\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAir_xpelf4ol7jf2ZTc-jw31wmDdISfgu_ljSEk5CSdBQP9D-at_qSXkcF6SW_C7xsVYstGN_ELJeywr92KhOhyff9MYfqAZmASfrVTQG3m-I86Hmr2IaIfbXknMFtgUbEhDw4qhRLdkkcnpK4CDJv6yvGhStWuR6E4Oc6xTibTfs_R83umGUVg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "reference" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+
+2020-01-28 17:49:38 INFO  LocationVerificationTest:51 - Verifying entered location belongs to Dubai with lattitude and longitude basis
+2020-01-28 17:49:38 INFO  LocationVerificationTest:52 - Parsing Json response in java pojo
+2020-01-28 17:49:50 INFO  TestBase:41 - log is initialized
+2020-01-28 17:49:53 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 17:49:54 INFO  LocationVerificationTest:32 - Creating http client instance
+2020-01-28 17:49:54 INFO  LocationVerificationTest:34 - Formation of URI
+2020-01-28 17:49:54 INFO  LocationVerificationTest:38 - URI is https://maps.googleapis.com/maps/api/place/textsearch/json?query=dubai&key=AIzaSyBWnICQGYkk1kCCLxQqwqQ5unr_vf1s6xY
+2020-01-28 17:49:54 INFO  LocationVerificationTest:40 - Instance of HttpGet
+2020-01-28 17:49:54 INFO  LocationVerificationTest:42 - Executing the request
+2020-01-28 17:49:54 INFO  LocationVerificationTest:45 - Verifying status code 200
+2020-01-28 17:49:54 INFO  LocationVerificationTest:50 - response body : {
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Dubai - United Arab Emirates",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.2048493,
+               "lng" : 55.2707828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3585607,
+                  "lng" : 55.5650393
+               },
+               "southwest" : {
+                  "lat" : 24.7921359,
+                  "lng" : 54.89045429999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4517501182432a6539985e4dbd00278179f70a98",
+         "name" : "Dubai",
+         "photos" : [
+            {
+               "height" : 1743,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105303505373661530610\"\u003eHauser Quaid Zzyzx\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtd-3g3PLOxG_WpTctwXJvqPWdXEgc60Cq_-DSq0_Wj1ZCIVJR0kNQeWNhzXc7nlbwbc-vgQTJ4dUZx3bhYd72FVpvSn6R_4J5oEaTQlCIBvUlA0i19gRcODAFj-nJf3gEhA16z6hEe0rrcSSoIqihMbeGhQHXm-Q9psnxnHEAw7-lpB7k5tL9g",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "reference" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+
+2020-01-28 17:49:54 INFO  LocationVerificationTest:51 - Verifying entered location belongs to Dubai with lattitude and longitude basis
+2020-01-28 17:49:54 INFO  LocationVerificationTest:52 - Parsing Json response in java pojo
+2020-01-28 17:49:54 INFO  SearchLeastExpensivePropertyTest:26 - Configutaion is loaded
+2020-01-28 17:49:54 INFO  SearchLeastExpensivePropertyTest:27 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 17:50:18 INFO  TestBase:41 - log is initialized
+2020-01-28 17:50:21 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 17:50:21 INFO  SearchLeastExpensivePropertyTest:26 - Configutaion is loaded
+2020-01-28 17:50:21 INFO  SearchLeastExpensivePropertyTest:27 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 17:50:28 INFO  SearchLeastExpensivePropertyTest:30 - Selecting Property Type:Rent
+2020-01-28 17:50:28 INFO  SearchLeastExpensivePropertyTest:36 - Selecting Min BedRooms: 2
+2020-01-28 17:50:28 INFO  SearchLeastExpensivePropertyTest:44 - Seraching property inDubai marinafor rent with min 2 bedrooms
+2020-01-28 17:50:31 INFO  SearchLeastExpensivePropertyTest:50 - Results are fetching out
+2020-01-28 17:50:32 INFO  SearchLeastExpensivePropertyTest:82 - Price of  Least Expensive property for rent with min 2 Bed Rooms is 76900
+2020-01-28 17:50:32 INFO  SearchLeastExpensivePropertyTest:89 - 1 Radiant 2-BR Apartment With Marina Views
+2020-01-28 17:50:32 INFO  SearchLeastExpensivePropertyTest:94 - Number of Property founds at  price 76900 is 1
+2020-01-28 17:50:32 INFO  SearchLeastExpensivePropertyTest:96 - property description or title are :
+2020-01-28 17:50:32 INFO  SearchLeastExpensivePropertyTest:99 - 1 Radiant 2-BR Apartment With Marina Views
+2020-01-28 17:51:18 INFO  TestBase:41 - log is initialized
+2020-01-28 17:51:22 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 17:51:22 INFO  LocationVerificationTest:32 - Creating http client instance
+2020-01-28 17:51:22 INFO  LocationVerificationTest:34 - Formation of URI
+2020-01-28 17:51:22 INFO  LocationVerificationTest:38 - URI is https://maps.googleapis.com/maps/api/place/textsearch/json?query=dubai&key=AIzaSyBWnICQGYkk1kCCLxQqwqQ5unr_vf1s6xY
+2020-01-28 17:51:22 INFO  LocationVerificationTest:40 - Instance of HttpGet
+2020-01-28 17:51:22 INFO  LocationVerificationTest:42 - Executing the request
+2020-01-28 17:51:23 INFO  LocationVerificationTest:45 - Verifying status code 200
+2020-01-28 17:51:23 INFO  LocationVerificationTest:50 - response body : {
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Dubai - United Arab Emirates",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.2048493,
+               "lng" : 55.2707828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3585607,
+                  "lng" : 55.5650393
+               },
+               "southwest" : {
+                  "lat" : 24.7921359,
+                  "lng" : 54.89045429999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4517501182432a6539985e4dbd00278179f70a98",
+         "name" : "Dubai",
+         "photos" : [
+            {
+               "height" : 1743,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105303505373661530610\"\u003eHauser Quaid Zzyzx\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8-PmXzS9Zg5nmuC285gKYlBwRUdqaB657DjyR4JdBNZ9tFhymx4_PxFKXcLdIW6nAzMoQ6PcLmH5POch11LukXLenb_D3O3yt2zWloS_37VB1QYNKFH3SPnICtBBsx4SEhDyO0BqK-_aLbUxC0f6ufLqGhS9kKVGSIylHDjznPrxmwshYLMyiA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "reference" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+
+2020-01-28 17:51:23 INFO  LocationVerificationTest:51 - Verifying entered location belongs to Dubai with lattitude and longitude basis
+2020-01-28 17:51:23 INFO  LocationVerificationTest:52 - Parsing Json response in java pojo
+2020-01-28 17:51:23 INFO  SearchLeastExpensivePropertyTest:26 - Configutaion is loaded
+2020-01-28 17:51:23 INFO  SearchLeastExpensivePropertyTest:27 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 17:51:30 INFO  SearchLeastExpensivePropertyTest:30 - Selecting Property Type:Rent
+2020-01-28 17:51:30 INFO  SearchLeastExpensivePropertyTest:36 - Selecting Min BedRooms: 2
+2020-01-28 17:51:30 INFO  SearchLeastExpensivePropertyTest:44 - Seraching property inDubai marinafor rent with min 2 bedrooms
+2020-01-28 17:51:33 INFO  SearchLeastExpensivePropertyTest:50 - Results are fetching out
+2020-01-28 17:51:34 INFO  SearchLeastExpensivePropertyTest:82 - Price of  Least Expensive property for rent with min 2 Bed Rooms is 76900
+2020-01-28 17:51:34 INFO  SearchLeastExpensivePropertyTest:89 - 1 Radiant 2-BR Apartment With Marina Views
+2020-01-28 17:51:34 INFO  SearchLeastExpensivePropertyTest:94 - Number of Property founds at  price 76900 is 1
+2020-01-28 17:51:34 INFO  SearchLeastExpensivePropertyTest:96 - property description or title are :
+2020-01-28 17:51:34 INFO  SearchLeastExpensivePropertyTest:99 - 1 Radiant 2-BR Apartment With Marina Views
+2020-01-28 17:52:53 INFO  TestBase:41 - log is initialized
+2020-01-28 17:52:56 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 17:52:57 INFO  LocationVerificationTest:32 - Creating http client instance
+2020-01-28 17:52:57 INFO  LocationVerificationTest:34 - Formation of URI
+2020-01-28 17:52:57 INFO  LocationVerificationTest:38 - URI is https://maps.googleapis.com/maps/api/place/textsearch/json?query=dubai&key=AIzaSyBWnICQGYkk1kCCLxQqwqQ5unr_vf1s6xY
+2020-01-28 17:52:57 INFO  LocationVerificationTest:40 - Instance of HttpGet
+2020-01-28 17:52:57 INFO  LocationVerificationTest:42 - Executing the request
+2020-01-28 17:52:58 INFO  LocationVerificationTest:45 - Verifying status code 200
+2020-01-28 17:52:58 INFO  LocationVerificationTest:50 - response body : {
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Dubai - United Arab Emirates",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.2048493,
+               "lng" : 55.2707828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3585607,
+                  "lng" : 55.5650393
+               },
+               "southwest" : {
+                  "lat" : 24.7921359,
+                  "lng" : 54.89045429999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4517501182432a6539985e4dbd00278179f70a98",
+         "name" : "Dubai",
+         "photos" : [
+            {
+               "height" : 1743,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105303505373661530610\"\u003eHauser Quaid Zzyzx\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwITNKIGEk4jFNKqxgbNbUqH1enOKPMmjK3Z5eHYRb-PNNF_wnWUJaU62v9WByeR13oRSvgHPe5igGfbuhzvpsx0VzLZIlivmnp7y37lornXCGKBzKFxpncC62J7uLRsQEhB-ItzG2upE6ugxos9YuhiFGhSyLlA130kyqs1d4joeRNZrA6A5PQ",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "reference" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+
+2020-01-28 17:52:58 INFO  LocationVerificationTest:51 - Verifying entered location belongs to Dubai with lattitude and longitude basis
+2020-01-28 17:52:58 INFO  LocationVerificationTest:52 - Parsing Json response in java pojo
+2020-01-28 17:52:58 INFO  SearchLeastExpensivePropertyTest:26 - Configutaion is loaded
+2020-01-28 17:52:58 INFO  SearchLeastExpensivePropertyTest:27 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 17:53:02 INFO  SearchLeastExpensivePropertyTest:30 - Selecting Property Type:Rent
+2020-01-28 17:53:02 INFO  SearchLeastExpensivePropertyTest:36 - Selecting Min BedRooms: 2
+2020-01-28 17:53:02 INFO  SearchLeastExpensivePropertyTest:44 - Seraching property inDubai marinafor rent with min 2 bedrooms
+2020-01-28 17:53:04 INFO  SearchLeastExpensivePropertyTest:50 - Results are fetching out
+2020-01-28 17:53:06 INFO  SearchLeastExpensivePropertyTest:82 - Price of  Least Expensive property for rent with min 2 Bed Rooms is 76900
+2020-01-28 17:53:06 INFO  SearchLeastExpensivePropertyTest:89 - 1 Radiant 2-BR Apartment With Marina Views
+2020-01-28 17:53:06 INFO  SearchLeastExpensivePropertyTest:94 - Number of Property founds at  price 76900 is 1
+2020-01-28 17:53:06 INFO  SearchLeastExpensivePropertyTest:96 - property description or title are :
+2020-01-28 17:53:06 INFO  SearchLeastExpensivePropertyTest:99 - 1 Radiant 2-BR Apartment With Marina Views
+2020-01-28 17:55:18 INFO  TestBase:41 - log is initialized
+2020-01-28 17:55:22 INFO  TestBase:55 - Browser is being maximized
+2020-01-28 17:55:22 INFO  LocationVerificationTest:32 - Creating http client instance
+2020-01-28 17:55:22 INFO  LocationVerificationTest:34 - Formation of URI
+2020-01-28 17:55:22 INFO  LocationVerificationTest:38 - URI is https://maps.googleapis.com/maps/api/place/textsearch/json?query=dubai&key=AIzaSyBWnICQGYkk1kCCLxQqwqQ5unr_vf1s6xY
+2020-01-28 17:55:22 INFO  LocationVerificationTest:40 - Instance of HttpGet
+2020-01-28 17:55:22 INFO  LocationVerificationTest:42 - Executing the request
+2020-01-28 17:55:23 INFO  LocationVerificationTest:45 - Verifying status code 200
+2020-01-28 17:55:23 INFO  LocationVerificationTest:50 - response body : {
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Dubai - United Arab Emirates",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.2048493,
+               "lng" : 55.2707828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3585607,
+                  "lng" : 55.5650393
+               },
+               "southwest" : {
+                  "lat" : 24.7921359,
+                  "lng" : 54.89045429999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4517501182432a6539985e4dbd00278179f70a98",
+         "name" : "Dubai",
+         "photos" : [
+            {
+               "height" : 1743,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105303505373661530610\"\u003eHauser Quaid Zzyzx\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKNx6bb5WXgXCr6EGOAMrYhF2-FF4nsjHta3kd3Xsf3-CIkDTldGPoeMFDpsCcdvHyCMUlzZTzEno3yf537Bk08o7B5YxCPAvyyVUvys3IZ1ooJ2tLgyggTMJr1Q31fR5EhD38DTw0JALosseyLUKSRseGhR9tweDEUp5RFSPFsDINrn6ktlU9w",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "reference" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+
+2020-01-28 17:55:23 INFO  LocationVerificationTest:51 - Verifying entered location belongs to Dubai with lattitude and longitude basis
+2020-01-28 17:55:23 INFO  LocationVerificationTest:52 - Parsing Json response in java pojo
+2020-01-28 17:55:24 INFO  SearchLeastExpensivePropertyTest:26 - Configutaion is loaded
+2020-01-28 17:55:24 INFO  SearchLeastExpensivePropertyTest:27 - Opening URL : https://www.propertyfinder.ae
+2020-01-28 17:55:31 INFO  SearchLeastExpensivePropertyTest:30 - Selecting Property Type:Rent
+2020-01-28 17:55:31 INFO  SearchLeastExpensivePropertyTest:36 - Selecting Min BedRooms: 2
+2020-01-28 17:55:31 INFO  SearchLeastExpensivePropertyTest:44 - Seraching property inDubai marinafor rent with min 2 bedrooms
+2020-01-28 17:55:35 INFO  SearchLeastExpensivePropertyTest:50 - Results are fetching out
+2020-01-28 17:55:36 INFO  SearchLeastExpensivePropertyTest:82 - Price of  Least Expensive property for rent with min 2 Bed Rooms is 76900
+2020-01-28 17:55:36 INFO  SearchLeastExpensivePropertyTest:89 - 1 Radiant 2-BR Apartment With Marina Views
+2020-01-28 17:55:36 INFO  SearchLeastExpensivePropertyTest:94 - Number of Property founds at  price 76900 is 1
+2020-01-28 17:55:36 INFO  SearchLeastExpensivePropertyTest:96 - property description or title are :
+2020-01-28 17:55:36 INFO  SearchLeastExpensivePropertyTest:99 - 1 Radiant 2-BR Apartment With Marina Views

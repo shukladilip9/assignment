@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="FunctionalTest(failed)">
+    <classes>
+      <class name="api.test.LocationVerificationTest">
+        <methods>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- api.test.LocationVerificationTest -->
+      <class name="least.expensive.hotel.SearchLeastExpensivePropertyTest">
+        <methods>
+          <include name="PropertyFinderTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- least.expensive.hotel.SearchLeastExpensivePropertyTest -->
+    </classes>
+  </test> <!-- FunctionalTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
